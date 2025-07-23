@@ -4022,3 +4022,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Jul2025 19:32:36.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ left the game
 [23Jul2025 19:32:36.921] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bed3f8e7-8dbc-34e3-ad51-221b8f13a15b
 [23Jul2025 19:33:24.771] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 63 chunks for dimension 'overworld' took 1 milliseconds
+[23Jul2025 19:38:24.735] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 63 chunks for dimension 'overworld' took 1 milliseconds
+[23Jul2025 19:39:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Jul2025 19:39:33.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tps<--[HERE]
+[23Jul2025 19:43:24.691] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 63 chunks for dimension 'overworld' took 0 milliseconds
+[23Jul2025 19:48:24.684] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 63 chunks for dimension 'overworld' took 1 milliseconds
