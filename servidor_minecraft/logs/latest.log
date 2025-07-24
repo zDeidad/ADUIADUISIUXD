@@ -4235,3 +4235,27 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 18:42:48.225] [Server thread/INFO] [Jade/]: Syncing config to rfrd18 (7918264a-f9eb-4d18-913e-b14c74b23958)
 [24Jul2025 18:42:55.691] [Server thread/INFO] [ping-wheel/]: Channel update: rfrd18 -> default
 [24Jul2025 18:45:32.259] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1233 chunks for dimension 'overworld' took 4 milliseconds
+[24Jul2025 18:49:39.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 moved wrongly!
+[24Jul2025 18:50:32.282] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1270 chunks for dimension 'overworld' took 3 milliseconds
+[24Jul2025 18:51:00.295] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=759, y=-23, z=-354}
+[24Jul2025 18:51:32.448] [Worker-Main-11/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[24Jul2025 18:51:32.449] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[24Jul2025 18:51:32.449] [Worker-Main-11/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[24Jul2025 18:51:32.449] [Worker-Main-11/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[24Jul2025 18:51:32.449] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 18:51:32.536] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 18:51:32.536] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 18:51:32.536] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 18:51:32.536] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 18:51:32.536] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 18:51:32.536] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 18:51:45.917] [Worker-Main-25/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1657608553,-181188645,-1970306320,-21935466],type:"minecraft:entity",y_offset:0.36f}}]
+[24Jul2025 18:51:45.918] [Worker-Main-25/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-492208151,2130201996,-1638321847,-236952269],type:"minecraft:entity",y_offset:0.36f}}]
+[24Jul2025 18:51:45.919] [Worker-Main-25/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1534938430,-1634907265,-1933425779,1714146874],type:"minecraft:entity",y_offset:0.36f}}]
+[24Jul2025 18:53:25.685] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1037, y=-19, z=-1220} but found not block entity block Block{minecraft:cave_air} at location
+[24Jul2025 18:53:25.685] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1037, y=-19, z=-1220}
+[24Jul2025 18:54:40.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Alxjo_ lost connection: Disconnected
+[24Jul2025 18:54:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ left the game
+[24Jul2025 18:54:40.278] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
+[24Jul2025 18:55:32.273] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1378 chunks for dimension 'overworld' took 4 milliseconds
+[24Jul2025 18:57:33.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
