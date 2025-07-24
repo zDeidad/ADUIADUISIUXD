@@ -4379,3 +4379,24 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 19:48:42.559] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
 [24Jul2025 19:48:42.992] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
 [24Jul2025 19:50:35.654] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1986 chunks for dimension 'overworld' took 6 milliseconds
+[24Jul2025 19:55:35.668] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2011 chunks for dimension 'overworld' took 6 milliseconds
+[24Jul2025 20:00:13.176] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=424, y=-46, z=-3122} but found not block entity block Block{minecraft:cave_air} at location
+[24Jul2025 20:00:13.176] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=424, y=-46, z=-3122}
+[24Jul2025 20:00:20.790] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:worm",tag:{Damage:0}}
+[24Jul2025 20:00:20.790] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[24Jul2025 20:00:20.790] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.790] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.790] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.790] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.791] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:unusual_fish_soup"}
+[24Jul2025 20:00:20.791] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[24Jul2025 20:00:20.791] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[24Jul2025 20:00:20.791] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[24Jul2025 20:00:20.791] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[24Jul2025 20:00:35.732] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2091 chunks for dimension 'overworld' took 6 milliseconds

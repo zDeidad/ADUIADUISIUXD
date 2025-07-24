@@ -68,6 +68,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "rocky_shrubland": "2025-07-24 19:30:06 +0000",
+      "highland": "2025-07-24 19:58:59 +0000",
       "jacaranda_glade": "2025-07-24 02:06:08 +0000",
       "marsh": "2025-07-24 02:02:52 +0000",
       "maple_woods": "2025-07-24 19:43:09 +0000",
@@ -75,6 +76,7 @@
       "orchard": "2025-07-24 19:32:00 +0000",
       "overgrown_greens": "2025-07-24 02:12:32 +0000",
       "coniferous_forest": "2025-07-24 19:46:16 +0000",
+      "spider_nest": "2025-07-24 19:51:16 +0000",
       "redwood_forest": "2025-07-24 02:10:02 +0000",
       "fir_clearing": "2025-07-24 19:49:46 +0000",
       "prairie": "2025-07-24 02:05:30 +0000",
@@ -8771,6 +8773,42 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-07-24 19:45:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-24 19:51:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-24 19:51:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-24 19:51:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-24 19:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-24 19:51:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-24 19:54:46 +0000"
     },
     "done": true
   },
