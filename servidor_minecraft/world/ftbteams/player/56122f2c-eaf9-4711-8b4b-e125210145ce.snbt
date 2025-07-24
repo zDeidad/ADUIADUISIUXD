@@ -1,0 +1,17 @@
+{
+	id: "56122f2c-eaf9-4711-8b4b-e125210145ce"
+	type: "player"
+	player_name: "Santiago_Franco"
+	ranks: {
+		56122f2c-eaf9-4711-8b4b-e125210145ce: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Santiago_Franco"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

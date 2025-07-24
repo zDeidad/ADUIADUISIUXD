@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "FKECOST"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF5998"
+		"ftbteams:color": "#FF5986"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

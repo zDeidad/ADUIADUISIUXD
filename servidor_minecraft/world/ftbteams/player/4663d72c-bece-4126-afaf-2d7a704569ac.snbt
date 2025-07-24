@@ -1,0 +1,17 @@
+{
+	id: "4663d72c-bece-4126-afaf-2d7a704569ac"
+	type: "player"
+	player_name: "ralexxd4rk"
+	ranks: {
+		4663d72c-bece-4126-afaf-2d7a704569ac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ralexxd4rk"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

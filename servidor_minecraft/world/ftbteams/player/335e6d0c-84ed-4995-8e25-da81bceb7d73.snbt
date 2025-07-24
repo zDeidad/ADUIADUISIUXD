@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "jeronight"
 		"ftbteams:description": ""
-		"ftbteams:color": "#6CFF59"
+		"ftbteams:color": "#FF9059"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
