@@ -4159,3 +4159,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 18:26:39.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 lost connection: Disconnected
 [24Jul2025 18:26:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 left the game
 [24Jul2025 18:26:39.629] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7918264a-f9eb-4d18-913e-b14c74b23958
+[24Jul2025 18:30:06.015] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rfrd18 is 7918264a-f9eb-4d18-913e-b14c74b23958
+[24Jul2025 18:30:09.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rfrd18[/100.120.122.19:63877] logged in with entity id 13277 at (519.8621981115399, 36.0, -733.0447932145447)
+[24Jul2025 18:30:09.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to rfrd18
+[24Jul2025 18:30:09.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to rfrd18
+[24Jul2025 18:30:09.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to rfrd18
+[24Jul2025 18:30:09.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to rfrd18
+[24Jul2025 18:30:09.058] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to rfrd18
+[24Jul2025 18:30:09.059] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to rfrd18
+[24Jul2025 18:30:09.060] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to rfrd18
+[24Jul2025 18:30:09.071] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 18:30:09.091] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player rfrd18
+[24Jul2025 18:30:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 joined the game
+[24Jul2025 18:30:09.163] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7918264a-f9eb-4d18-913e-b14c74b23958
+[24Jul2025 18:30:09.172] [Server thread/INFO] [Jade/]: Syncing config to rfrd18 (7918264a-f9eb-4d18-913e-b14c74b23958)
+[24Jul2025 18:30:15.930] [Server thread/INFO] [ping-wheel/]: Channel update: rfrd18 -> default
+[24Jul2025 18:30:32.285] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1155 chunks for dimension 'overworld' took 6 milliseconds
+[24Jul2025 18:31:27.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Alxjo_ moved wrongly!
+[24Jul2025 18:35:32.281] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1183 chunks for dimension 'overworld' took 4 milliseconds

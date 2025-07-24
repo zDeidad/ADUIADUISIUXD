@@ -5289,15 +5289,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_raw_iron": "2025-07-24 18:20:47 +0000"
+      "minecraft:cow": "2025-07-24 18:05:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-24 18:05:26 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_any_ingredient": "2025-07-24 18:13:59 +0000"
+      "has_mushroom_stew": "2025-07-24 18:08:28 +0000"
     },
     "done": true
   },
@@ -5307,15 +5313,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_raw_iron": "2025-07-24 18:20:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-07-24 18:14:42 +0000"
+      "has_any_ingredient": "2025-07-24 18:13:59 +0000"
     },
     "done": true
   },
@@ -5325,27 +5325,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-07-24 18:05:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_mushroom_stew": "2025-07-24 18:08:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-24 18:13:59 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "supplementaries:recipes/ash_brick": {
     "criteria": {
-      "bred": "2025-07-24 18:05:26 +0000"
+      "forge:ash": "2025-07-24 18:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-24 18:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-24 18:20:47 +0000"
     },
     "done": true
   },
@@ -5358,6 +5358,24 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-24 18:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-24 18:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-24 18:32:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-24 18:32:51 +0000"
     },
     "done": true
   },

@@ -5186,6 +5186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-24 18:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jellyshroom_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 17:59:17 +0000"
@@ -5225,6 +5231,18 @@
   "boatload:recipes/transportation/large_jungle_boat": {
     "criteria": {
       "has_boat": "2025-07-24 18:24:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-07-24 18:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-24 18:30:02 +0000"
     },
     "done": true
   },
@@ -5336,6 +5354,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-07-24 18:32:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
     "criteria": {
       "has_tall_lavender": "2025-07-24 18:11:09 +0000"
@@ -5402,9 +5426,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-07-24 18:33:56 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_curtain": {
     "criteria": {
       "has_wool": "2025-07-24 18:10:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-07-24 18:31:32 +0000"
     },
     "done": true
   },
@@ -5495,6 +5531,18 @@
   "galosphere:recipes/combat/silver_bomb": {
     "criteria": {
       "has_gunpowder": "2025-07-24 18:20:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-07-24 18:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-24 18:30:22 +0000"
     },
     "done": true
   },
@@ -5720,6 +5768,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-07-24 18:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-07-24 17:59:17 +0000"
@@ -5795,6 +5849,12 @@
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2025-07-24 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-07-24 18:32:18 +0000"
     },
     "done": true
   },
@@ -6215,6 +6275,12 @@
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-24 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-24 18:30:22 +0000"
     },
     "done": true
   },
@@ -6653,6 +6719,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-24 18:20:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-24 18:30:22 +0000"
     },
     "done": true
   },
