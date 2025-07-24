@@ -6514,6 +6514,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-24 18:37:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-07-24 18:17:20 +0000"
@@ -6646,6 +6652,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-07-24 18:39:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-07-24 18:17:20 +0000"
@@ -6712,6 +6724,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-07-24 18:39:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-07-24 18:24:58 +0000"
@@ -6739,6 +6757,12 @@
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-07-24 18:17:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-07-24 18:39:47 +0000"
     },
     "done": true
   },
