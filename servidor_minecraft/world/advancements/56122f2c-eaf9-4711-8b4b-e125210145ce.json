@@ -2530,6 +2530,7 @@
       "baked_potato": "2025-07-24 02:27:19 +0000",
       "beetroot_soup": "2025-07-24 18:18:10 +0000",
       "apple": "2025-07-24 02:17:44 +0000",
+      "cooked_cod": "2025-07-24 19:05:26 +0000",
       "bread": "2025-07-24 03:04:44 +0000",
       "rotten_flesh": "2025-07-24 02:20:52 +0000",
       "melon_slice": "2025-07-24 02:30:55 +0000",
@@ -6484,6 +6485,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-07-24 18:57:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-07-24 18:48:42 +0000"
@@ -6694,6 +6701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-24 18:57:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-07-24 18:17:20 +0000"
@@ -6778,6 +6791,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-07-24 18:57:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-07-24 18:26:19 +0000"
@@ -6787,6 +6806,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-07-24 18:24:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-07-24 18:57:55 +0000"
     },
     "done": true
   },
@@ -6844,6 +6869,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-07-24 18:57:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_item": "2025-07-24 18:17:20 +0000"
@@ -6886,6 +6917,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-07-24 18:57:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-07-24 18:17:20 +0000"
@@ -6922,6 +6959,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-07-24 19:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-07-24 18:17:20 +0000"
@@ -6946,9 +6989,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-07-24 18:57:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-07-24 18:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-24 18:57:55 +0000"
     },
     "done": true
   },
@@ -7087,6 +7142,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-24 18:17:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-07-24 18:57:55 +0000"
     },
     "done": true
   },

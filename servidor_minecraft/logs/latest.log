@@ -4259,3 +4259,59 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 18:54:40.278] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
 [24Jul2025 18:55:32.273] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1378 chunks for dimension 'overworld' took 4 milliseconds
 [24Jul2025 18:57:33.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
+[24Jul2025 19:00:01.419] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ralexxd4rk is 4663d72c-bece-4126-afaf-2d7a704569ac
+[24Jul2025 19:00:09.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ralexxd4rk[/100.83.8.89:51810] logged in with entity id 27557 at (278.08284018420835, 28.0, 122.1848309027237)
+[24Jul2025 19:00:09.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ralexxd4rk
+[24Jul2025 19:00:09.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ralexxd4rk
+[24Jul2025 19:00:09.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ralexxd4rk
+[24Jul2025 19:00:09.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ralexxd4rk
+[24Jul2025 19:00:09.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ralexxd4rk
+[24Jul2025 19:00:09.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ralexxd4rk
+[24Jul2025 19:00:09.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ralexxd4rk
+[24Jul2025 19:00:09.858] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 19:00:09.874] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ralexxd4rk
+[24Jul2025 19:00:09.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk joined the game
+[24Jul2025 19:00:09.895] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 4663d72c-bece-4126-afaf-2d7a704569ac
+[24Jul2025 19:00:09.903] [Server thread/INFO] [Jade/]: Syncing config to ralexxd4rk (4663d72c-bece-4126-afaf-2d7a704569ac)
+[24Jul2025 19:00:10.354] [Server thread/INFO] [ping-wheel/]: Channel update: ralexxd4rk -> default
+[24Jul2025 19:00:32.296] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1422 chunks for dimension 'overworld' took 5 milliseconds
+[24Jul2025 19:00:48.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
+[24Jul2025 19:01:24.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ralexxd4rk> konichiwa mis tomodachi
+[24Jul2025 19:01:27.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 moved wrongly!
+[24Jul2025 19:01:40.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ralexxd4rk> gomen
+[24Jul2025 19:01:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ralexxd4rk> hiroshima
+[24Jul2025 19:05:32.387] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1456 chunks for dimension 'overworld' took 5 milliseconds
+[24Jul2025 19:05:45.381] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Alxjo_ is 149dc44c-de5b-4961-9b49-aee74467a47e
+[24Jul2025 19:05:48.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Alxjo_[/100.110.49.30:50317] logged in with entity id 30330 at (1372.2664859335457, 62.0, -1117.8410320490198)
+[24Jul2025 19:05:48.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to _Alxjo_
+[24Jul2025 19:05:48.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to _Alxjo_
+[24Jul2025 19:05:48.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to _Alxjo_
+[24Jul2025 19:05:48.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to _Alxjo_
+[24Jul2025 19:05:48.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to _Alxjo_
+[24Jul2025 19:05:48.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to _Alxjo_
+[24Jul2025 19:05:48.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to _Alxjo_
+[24Jul2025 19:05:48.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 19:05:48.410] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player _Alxjo_
+[24Jul2025 19:05:48.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ joined the game
+[24Jul2025 19:05:48.471] [Server thread/INFO] [Jade/]: Syncing config to _Alxjo_ (149dc44c-de5b-4961-9b49-aee74467a47e)
+[24Jul2025 19:05:48.471] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
+[24Jul2025 19:05:52.794] [Server thread/INFO] [ping-wheel/]: Channel update: _Alxjo_ -> default
+[24Jul2025 19:05:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk was slain by Zombie
+[24Jul2025 19:06:16.662] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[24Jul2025 19:06:16.662] [Worker-Main-9/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[24Jul2025 19:06:16.662] [Worker-Main-9/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[24Jul2025 19:06:16.663] [Worker-Main-9/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[24Jul2025 19:06:16.663] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[24Jul2025 19:06:16.663] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[24Jul2025 19:06:16.663] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[24Jul2025 19:06:16.663] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[24Jul2025 19:06:16.663] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[24Jul2025 19:06:16.664] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[24Jul2025 19:06:16.664] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[24Jul2025 19:06:16.664] [Worker-Main-9/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[24Jul2025 19:06:16.664] [Worker-Main-9/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[24Jul2025 19:06:16.664] [Worker-Main-9/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[24Jul2025 19:06:16.664] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[24Jul2025 19:06:16.665] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[24Jul2025 19:06:16.665] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[24Jul2025 19:06:16.665] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
