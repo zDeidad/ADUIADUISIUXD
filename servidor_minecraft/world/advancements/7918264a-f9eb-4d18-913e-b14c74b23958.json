@@ -6408,6 +6408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-24 20:04:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:45:42 +0000"
@@ -6717,6 +6723,12 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-07-24 19:26:53 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-07-24 20:04:08 +0000"
     },
     "done": true
   },

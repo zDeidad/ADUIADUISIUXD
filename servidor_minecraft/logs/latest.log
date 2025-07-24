@@ -4400,3 +4400,52 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
 [24Jul2025 20:00:20.792] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
 [24Jul2025 20:00:35.732] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2091 chunks for dimension 'overworld' took 6 milliseconds
+[24Jul2025 20:01:27.211] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[24Jul2025 20:01:27.212] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[24Jul2025 20:01:27.212] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[24Jul2025 20:01:27.212] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[24Jul2025 20:01:27.212] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[24Jul2025 20:03:57.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1759, y=-16, z=-1420} but found not block entity block Block{minecraft:cave_air} at location
+[24Jul2025 20:03:57.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1759, y=-16, z=-1420}
+[24Jul2025 20:04:25.480] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[24Jul2025 20:04:27.102] [Worker-Main-25/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[24Jul2025 20:04:27.118] [Worker-Main-25/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 16ms
+[24Jul2025 20:04:32.276] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/66760, l='ServerLevel[world]', x=86.00, y=81.00, z=-385.00] as it would cause deadlock
+[24Jul2025 20:04:35.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9594ms or 191 ticks behind
+[24Jul2025 20:04:35.098] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 0 chunks for dimension 'the_nether' took 0 milliseconds
+[24Jul2025 20:05:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jul2025 20:05:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jul2025 20:05:13.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago_Franco lost connection: Server closed
+[24Jul2025 20:05:13.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago_Franco left the game
+[24Jul2025 20:05:13.192] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 56122f2c-eaf9-4711-8b4b-e125210145ce
+[24Jul2025 20:05:13.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Alxjo_ lost connection: Server closed
+[24Jul2025 20:05:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ left the game
+[24Jul2025 20:05:13.205] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
+[24Jul2025 20:05:13.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Server closed
+[24Jul2025 20:05:13.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[24Jul2025 20:05:13.219] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 20:05:13.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jul2025 20:05:14.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jul2025 20:05:17.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[24Jul2025 20:05:17.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jul2025 20:05:17.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24Jul2025 20:05:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24Jul2025 20:05:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jul2025 20:05:17.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[24Jul2025 20:05:17.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[24Jul2025 20:05:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jul2025 20:05:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[24Jul2025 20:05:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jul2025 20:05:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24Jul2025 20:05:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24Jul2025 20:05:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jul2025 20:05:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[24Jul2025 20:05:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[24Jul2025 20:05:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Jul2025 20:05:18.102] [Server thread/INFO] [Chunk Activity Tracker/]: Server stopping, clearing chunk activity tracking map.
+[24Jul2025 20:05:18.107] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Jul2025 20:05:18.109] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[24Jul2025 20:05:18.109] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[24Jul2025 20:05:18.110] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[24Jul2025 20:05:18.110] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[24Jul2025 20:05:18.112] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
