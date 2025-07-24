@@ -6473,6 +6473,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-07-24 19:12:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_mushroom_brown": {
     "criteria": {
       "has_brown_mushroom": "2025-07-24 18:24:58 +0000"
@@ -6518,6 +6524,12 @@
   "mynethersdelight:recipes/cooking/egg_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-24 18:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-24 19:11:59 +0000"
     },
     "done": true
   },
@@ -6641,6 +6653,12 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-07-24 19:05:55 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "has_eggs": "2025-07-24 18:48:42 +0000"
@@ -6692,6 +6710,18 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-24 18:24:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-07-24 19:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-24 19:12:00 +0000"
     },
     "done": true
   },
@@ -6779,6 +6809,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-07-24 19:05:55 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_quail_egg": "2025-07-24 18:48:42 +0000"
@@ -6815,6 +6851,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-07-24 19:12:01 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/scotch_eggs": {
     "criteria": {
       "has_any_ingredient": "2025-07-24 18:48:42 +0000"
@@ -6830,6 +6872,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-07-24 18:24:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-07-24 19:05:55 +0000"
     },
     "done": true
   },
@@ -6854,6 +6902,12 @@
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-07-24 18:28:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-07-24 19:05:55 +0000"
     },
     "done": true
   },
@@ -6893,9 +6947,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-24 19:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-24 18:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-24 19:12:00 +0000"
     },
     "done": true
   },
@@ -6977,6 +7043,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-24 19:12:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cabbage": {
     "criteria": {
       "has_cabbage_crate": "2025-07-24 18:24:30 +0000"
@@ -7012,6 +7084,18 @@
       "in_better_spider_dungeon": "2025-07-24 18:29:07 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-24 19:12:00 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-24 19:12:00 +0000"
+    },
+    "done": true
   },
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
