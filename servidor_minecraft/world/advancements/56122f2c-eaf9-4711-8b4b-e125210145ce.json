@@ -67,6 +67,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-07-24 19:36:20 +0000",
+      "rocky_shrubland": "2025-07-24 19:36:31 +0000",
       "highland": "2025-07-24 02:12:27 +0000",
       "jacaranda_glade": "2025-07-24 02:15:31 +0000",
       "marsh": "2025-07-24 02:03:33 +0000",
@@ -6545,6 +6547,12 @@
   "deep_aether:recipes/food/cake": {
     "criteria": {
       "has_quail_egg": "2025-07-24 18:48:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-07-24 19:45:07 +0000"
     },
     "done": true
   },

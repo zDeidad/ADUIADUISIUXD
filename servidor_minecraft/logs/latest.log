@@ -4351,3 +4351,31 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 19:39:47.118] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
 [24Jul2025 19:39:47.118] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
 [24Jul2025 19:39:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk was slain by Zombie
+[24Jul2025 19:40:29.884] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 19:40:29.885] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 19:40:29.885] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 19:40:29.886] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 19:40:29.908] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 19:40:29.909] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 19:40:35.731] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1839 chunks for dimension 'overworld' took 6 milliseconds
+[24Jul2025 19:41:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk was slain by Skeleton
+[24Jul2025 19:45:35.669] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1923 chunks for dimension 'overworld' took 5 milliseconds
+[24Jul2025 19:46:28.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Disconnected
+[24Jul2025 19:46:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[24Jul2025 19:46:28.529] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 19:48:39.606] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 19:48:42.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:55567] logged in with entity id 56798 at (985.2568021259035, 69.0, -2264.5860363651173)
+[24Jul2025 19:48:42.502] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[24Jul2025 19:48:42.502] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[24Jul2025 19:48:42.502] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[24Jul2025 19:48:42.503] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[24Jul2025 19:48:42.504] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[24Jul2025 19:48:42.506] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[24Jul2025 19:48:42.506] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[24Jul2025 19:48:42.516] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 19:48:42.532] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[24Jul2025 19:48:42.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[24Jul2025 19:48:42.550] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 19:48:42.559] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[24Jul2025 19:48:42.992] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[24Jul2025 19:50:35.654] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1986 chunks for dimension 'overworld' took 6 milliseconds

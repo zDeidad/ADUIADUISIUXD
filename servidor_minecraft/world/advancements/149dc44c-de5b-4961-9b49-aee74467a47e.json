@@ -2925,6 +2925,7 @@
       "minecraft:spider": "2025-07-24 03:34:08 +0000",
       "minecraft:creeper": "2025-07-24 19:15:23 +0000",
       "minecraft:wither_skeleton": "2025-07-24 02:09:16 +0000",
+      "minecraft:silverfish": "2025-07-24 19:39:37 +0000",
       "minecraft:zombie": "2025-07-24 02:17:25 +0000",
       "minecraft:zombie_villager": "2025-07-24 19:29:24 +0000"
     },
@@ -2979,6 +2980,7 @@
       "minecraft:forest": "2025-07-24 02:13:07 +0000",
       "minecraft:ocean": "2025-07-24 02:12:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 02:26:44 +0000",
+      "minecraft:savanna": "2025-07-24 19:39:59 +0000",
       "minecraft:plains": "2025-07-24 03:41:19 +0000"
     },
     "done": false
@@ -6822,6 +6824,18 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-24 19:39:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -6837,6 +6851,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-24 19:50:18 +0000"
     },
     "done": true
   },
@@ -6858,9 +6878,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-24 19:50:18 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-07-24 19:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-24 19:39:14 +0000"
     },
     "done": true
   },
@@ -6888,9 +6920,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-24 19:50:18 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/diamond_shield": {
     "criteria": {
       "has_diamond": "2025-07-24 19:16:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-07-24 19:45:47 +0000"
     },
     "done": true
   },
@@ -6903,6 +6947,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 19:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
     },
     "done": true
   },
@@ -6966,6 +7016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-24 19:39:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -6996,6 +7052,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-07-24 19:45:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 19:16:47 +0000"
@@ -7020,6 +7082,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-07-24 19:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 19:16:47 +0000"
@@ -7038,9 +7106,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-24 19:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-24 19:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-24 19:39:15 +0000"
     },
     "done": true
   },
@@ -7056,9 +7136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-07-24 19:16:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-07-24 19:45:47 +0000"
     },
     "done": true
   },
@@ -7077,6 +7169,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 19:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-24 19:39:15 +0000"
     },
     "done": true
   },
@@ -7128,6 +7226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-24 19:39:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -7140,9 +7244,21 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-07-24 19:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
     },
     "done": true
   },
@@ -7170,6 +7286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -7185,6 +7307,12 @@
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-07-24 19:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-24 19:44:05 +0000"
     },
     "done": true
   },
@@ -7209,6 +7337,36 @@
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2025-07-24 19:16:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-24 19:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
     },
     "done": true
   },
@@ -7242,6 +7400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -7260,9 +7424,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-24 19:45:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-07-24 19:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
     },
     "done": true
   },
@@ -7278,6 +7454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -7287,6 +7469,12 @@
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
     },
     "done": true
   },
@@ -7305,6 +7493,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 19:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
     },
     "done": true
   },
@@ -7344,6 +7538,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -7359,6 +7565,12 @@
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-07-24 19:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
     },
     "done": true
   },
@@ -7380,6 +7592,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
@@ -7398,9 +7616,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-07-24 19:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 19:16:47 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-07-24 19:44:05 +0000"
     },
     "done": true
   },
@@ -7416,15 +7664,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-24 19:06:32 +0000"
     },
     "done": true
   },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-07-24 19:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-24 19:16:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-07-24 19:45:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-24 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-07-24 19:44:44 +0000"
     },
     "done": true
   },
