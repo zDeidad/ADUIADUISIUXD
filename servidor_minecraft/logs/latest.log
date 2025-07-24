@@ -4154,3 +4154,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 18:18:04.059] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
 [24Jul2025 18:18:04.066] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
 [24Jul2025 18:18:04.551] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[24Jul2025 18:20:32.307] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1090 chunks for dimension 'overworld' took 5 milliseconds
+[24Jul2025 18:25:32.346] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1148 chunks for dimension 'overworld' took 4 milliseconds
+[24Jul2025 18:26:39.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 lost connection: Disconnected
+[24Jul2025 18:26:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 left the game
+[24Jul2025 18:26:39.629] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7918264a-f9eb-4d18-913e-b14c74b23958
