@@ -4337,3 +4337,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 19:24:07.834] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
 [24Jul2025 19:24:08.301] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
 [24Jul2025 19:25:32.325] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1562 chunks for dimension 'overworld' took 5 milliseconds
+[24Jul2025 19:30:32.319] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1616 chunks for dimension 'overworld' took 5 milliseconds
+[24Jul2025 19:32:08.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
+[24Jul2025 19:33:19.326] [Server thread/WARN] [Puzzles Lib/]: Requesting invalid capability fastitemframes:item_frame_color for type fuzs/fastitemframes/capability/ItemFrameColorCapability from holder ItemFrame['Item Frame'/42259, l='ServerLevel[world]', x=1181.50, y=82.03, z=-674.50, removed=DISCARDED]
+[24Jul2025 19:35:26.289] [Worker-Main-9/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[24Jul2025 19:35:35.662] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1725 chunks for dimension 'overworld' took 6 milliseconds
+[24Jul2025 19:36:25.657] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1886, y=-40, z=-1178} but found not block entity block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] at location
+[24Jul2025 19:36:25.658] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] but failed at location BlockPos{x=1886, y=-40, z=-1178}
+[24Jul2025 19:38:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk was slain by Zombie
+[24Jul2025 19:39:47.117] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[24Jul2025 19:39:47.118] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[24Jul2025 19:39:47.118] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[24Jul2025 19:39:47.118] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[24Jul2025 19:39:47.118] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[24Jul2025 19:39:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk was slain by Zombie

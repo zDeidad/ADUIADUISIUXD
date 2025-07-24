@@ -2422,6 +2422,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-07-24 19:32:28 +0000",
       "minecraft:beach": "2025-07-24 03:30:06 +0000",
       "minecraft:river": "2025-07-24 03:30:23 +0000",
       "minecraft:forest": "2025-07-24 02:32:59 +0000",
@@ -2434,6 +2435,7 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "prison_large_1": "2025-07-24 02:08:44 +0000",
+      "birch_house_medium_1": "2025-07-24 19:32:39 +0000",
       "oak_house_medium_2": "2025-07-24 03:32:34 +0000",
       "dark_oak_house_large_1": "2025-07-24 18:07:40 +0000"
     },
@@ -6618,6 +6620,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-24 19:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-07-24 18:16:48 +0000"
@@ -6708,6 +6716,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-07-24 19:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-24 18:18:57 +0000"
@@ -6729,6 +6743,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-07-24 18:18:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-24 19:34:20 +0000"
     },
     "done": true
   },
@@ -6918,6 +6938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_the_recipe": "2025-07-24 19:33:36 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/get_ventium": {
     "criteria": {
       "obtain_material": "2025-07-24 19:22:55 +0000"
@@ -7035,6 +7061,12 @@
   "galosphere:recipes/decorations/amethyst_lamp": {
     "criteria": {
       "has_amethyst_shard": "2025-07-24 19:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-24 19:33:36 +0000"
     },
     "done": true
   },
@@ -7338,9 +7370,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-24 19:26:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-24 18:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-24 19:33:36 +0000"
     },
     "done": true
   },
@@ -7389,6 +7433,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-24 18:09:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-07-24 19:33:36 +0000"
     },
     "done": true
   },
