@@ -4012,3 +4012,145 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [24Jul2025 17:57:29.583] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
 [24Jul2025 17:57:29.602] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
 [24Jul2025 17:57:30.869] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[24Jul2025 17:59:21.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Disconnected
+[24Jul2025 17:59:21.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[24Jul2025 17:59:21.616] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 17:59:55.716] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rfrd18 is 7918264a-f9eb-4d18-913e-b14c74b23958
+[24Jul2025 17:59:59.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rfrd18[/100.120.122.19:62073] logged in with entity id 1013 at (489.226925096859, 64.0625, -585.1719769393858)
+[24Jul2025 17:59:59.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to rfrd18
+[24Jul2025 17:59:59.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to rfrd18
+[24Jul2025 17:59:59.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to rfrd18
+[24Jul2025 17:59:59.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to rfrd18
+[24Jul2025 17:59:59.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to rfrd18
+[24Jul2025 17:59:59.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to rfrd18
+[24Jul2025 17:59:59.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to rfrd18
+[24Jul2025 17:59:59.169] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 17:59:59.189] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player rfrd18
+[24Jul2025 17:59:59.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 joined the game
+[24Jul2025 17:59:59.285] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7918264a-f9eb-4d18-913e-b14c74b23958
+[24Jul2025 17:59:59.297] [Server thread/INFO] [Jade/]: Syncing config to rfrd18 (7918264a-f9eb-4d18-913e-b14c74b23958)
+[24Jul2025 18:00:06.997] [Server thread/INFO] [ping-wheel/]: Channel update: rfrd18 -> default
+[24Jul2025 18:00:13.427] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:00:16.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:53386] logged in with entity id 1021 at (252.91837370124802, 13.0, 218.2325996589541)
+[24Jul2025 18:00:16.292] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[24Jul2025 18:00:16.292] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[24Jul2025 18:00:16.293] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[24Jul2025 18:00:16.293] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[24Jul2025 18:00:16.294] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[24Jul2025 18:00:16.297] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[24Jul2025 18:00:16.297] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[24Jul2025 18:00:16.309] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 18:00:16.329] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[24Jul2025 18:00:16.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[24Jul2025 18:00:16.353] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:00:16.365] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[24Jul2025 18:00:17.122] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[24Jul2025 18:00:32.296] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 925 chunks for dimension 'overworld' took 4 milliseconds
+[24Jul2025 18:02:44.590] [Worker-Main-9/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[24Jul2025 18:02:44.800] [Worker-Main-9/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 210ms
+[24Jul2025 18:03:48.262] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santiago_Franco is 56122f2c-eaf9-4711-8b4b-e125210145ce
+[24Jul2025 18:03:51.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago_Franco[/100.89.32.28:58543] logged in with entity id 1728 at (488.89197306090034, 64.0625, -582.7606608166785)
+[24Jul2025 18:03:51.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Santiago_Franco
+[24Jul2025 18:03:51.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Santiago_Franco
+[24Jul2025 18:03:51.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Santiago_Franco
+[24Jul2025 18:03:51.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Santiago_Franco
+[24Jul2025 18:03:51.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Santiago_Franco
+[24Jul2025 18:03:51.311] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Santiago_Franco
+[24Jul2025 18:03:51.312] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Santiago_Franco
+[24Jul2025 18:03:51.325] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 18:03:51.346] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Santiago_Franco
+[24Jul2025 18:03:51.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago_Franco joined the game
+[24Jul2025 18:03:51.487] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 56122f2c-eaf9-4711-8b4b-e125210145ce
+[24Jul2025 18:03:51.500] [Server thread/INFO] [Jade/]: Syncing config to Santiago_Franco (56122f2c-eaf9-4711-8b4b-e125210145ce)
+[24Jul2025 18:03:56.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Disconnected
+[24Jul2025 18:03:56.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[24Jul2025 18:03:56.067] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:03:58.338] [Server thread/INFO] [ping-wheel/]: Channel update: Santiago_Franco -> default
+[24Jul2025 18:04:33.204] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:04:36.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:53439] logged in with entity id 1803 at (323.32066489213196, -44.0, 163.78715142879818)
+[24Jul2025 18:04:36.108] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[24Jul2025 18:04:36.108] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[24Jul2025 18:04:36.108] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[24Jul2025 18:04:36.109] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[24Jul2025 18:04:36.110] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[24Jul2025 18:04:36.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[24Jul2025 18:04:36.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[24Jul2025 18:04:36.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 18:04:36.151] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[24Jul2025 18:04:36.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[24Jul2025 18:04:36.177] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:04:36.189] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[24Jul2025 18:04:36.919] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[24Jul2025 18:04:47.477] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ralexxd4rk is 4663d72c-bece-4126-afaf-2d7a704569ac
+[24Jul2025 18:04:54.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ralexxd4rk[/100.83.8.89:51359] logged in with entity id 2044 at (274.7538909634834, 28.0, 121.74639908205143)
+[24Jul2025 18:04:54.860] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ralexxd4rk
+[24Jul2025 18:04:54.860] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ralexxd4rk
+[24Jul2025 18:04:54.861] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ralexxd4rk
+[24Jul2025 18:04:54.861] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ralexxd4rk
+[24Jul2025 18:04:54.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ralexxd4rk
+[24Jul2025 18:04:54.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ralexxd4rk
+[24Jul2025 18:04:54.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ralexxd4rk
+[24Jul2025 18:04:54.877] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 18:04:54.895] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ralexxd4rk
+[24Jul2025 18:04:54.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk joined the game
+[24Jul2025 18:04:54.989] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 4663d72c-bece-4126-afaf-2d7a704569ac
+[24Jul2025 18:04:55.008] [Server thread/INFO] [Jade/]: Syncing config to ralexxd4rk (4663d72c-bece-4126-afaf-2d7a704569ac)
+[24Jul2025 18:05:20.090] [Server thread/INFO] [ping-wheel/]: Channel update: ralexxd4rk -> default
+[24Jul2025 18:05:32.320] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 925 chunks for dimension 'overworld' took 7 milliseconds
+[24Jul2025 18:05:54.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=67, z=-585} BlockPos{x=504, y=67, z=-584}
+[24Jul2025 18:05:54.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=67, z=-585} BlockPos{x=504, y=67, z=-584}
+[24Jul2025 18:06:04.895] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[24Jul2025 18:06:04.896] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[24Jul2025 18:06:04.896] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[24Jul2025 18:06:04.897] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[24Jul2025 18:06:04.898] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[24Jul2025 18:06:04.898] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[24Jul2025 18:06:04.898] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[24Jul2025 18:06:04.898] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[24Jul2025 18:06:08.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=516, y=67, z=-590} BlockPos{x=515, y=67, z=-590}
+[24Jul2025 18:06:09.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=516, y=69, z=-589} BlockPos{x=515, y=67, z=-586}
+[24Jul2025 18:06:10.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=516, y=69, z=-589} BlockPos{x=515, y=67, z=-586}
+[24Jul2025 18:06:10.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=516, y=69, z=-589} BlockPos{x=515, y=67, z=-586}
+[24Jul2025 18:08:15.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=480, y=66, z=-611} BlockPos{x=480, y=66, z=-609}
+[24Jul2025 18:10:32.326] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 980 chunks for dimension 'overworld' took 4 milliseconds
+[24Jul2025 18:11:32.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 moved wrongly!
+[24Jul2025 18:13:50.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Disconnected
+[24Jul2025 18:13:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[24Jul2025 18:13:50.476] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:13:52.136] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:13:55.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:53576] logged in with entity id 6673 at (314.3124437126655, -45.0, 167.38336618757432)
+[24Jul2025 18:13:55.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[24Jul2025 18:13:55.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[24Jul2025 18:13:55.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[24Jul2025 18:13:55.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[24Jul2025 18:13:55.018] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[24Jul2025 18:13:55.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[24Jul2025 18:13:55.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[24Jul2025 18:13:55.031] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 18:13:55.050] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[24Jul2025 18:13:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[24Jul2025 18:13:55.139] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:13:55.153] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[24Jul2025 18:13:55.680] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[24Jul2025 18:15:32.296] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1050 chunks for dimension 'overworld' took 4 milliseconds
+[24Jul2025 18:16:29.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ralexxd4rk lost connection: Disconnected
+[24Jul2025 18:16:29.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ralexxd4rk left the game
+[24Jul2025 18:16:29.075] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 4663d72c-bece-4126-afaf-2d7a704569ac
+[24Jul2025 18:16:34.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Disconnected
+[24Jul2025 18:16:34.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[24Jul2025 18:16:34.070] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:18:01.127] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:18:03.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:53675] logged in with entity id 8123 at (301.7210136235058, -43.0, 145.6060019011222)
+[24Jul2025 18:18:03.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[24Jul2025 18:18:03.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[24Jul2025 18:18:03.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[24Jul2025 18:18:04.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[24Jul2025 18:18:04.001] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[24Jul2025 18:18:04.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[24Jul2025 18:18:04.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[24Jul2025 18:18:04.014] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[24Jul2025 18:18:04.033] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[24Jul2025 18:18:04.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[24Jul2025 18:18:04.059] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[24Jul2025 18:18:04.066] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[24Jul2025 18:18:04.551] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
