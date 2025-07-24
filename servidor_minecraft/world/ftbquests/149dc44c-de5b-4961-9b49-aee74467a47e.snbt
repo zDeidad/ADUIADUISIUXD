@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "149dc44cde5b49619b49aee74467a47e"
+	name: "_Alxjo_#149dc44c"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1753321615970L
+		2574E7CF699D5B45: 1753321615970L
+		0470194500CBE26C: 1753321615970L
+		0000000000000001: 1753321615970L
+	}
+	completed: {
+		2574E7CF699D5B45: 1753321615970L
+		0470194500CBE26C: 1753321615970L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

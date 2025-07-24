@@ -1,0 +1,17 @@
+{
+	id: "82d27b2b-f0ae-4696-8e5f-6e9b47583a31"
+	type: "player"
+	player_name: "FKECOST"
+	ranks: {
+		82d27b2b-f0ae-4696-8e5f-6e9b47583a31: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FKECOST"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5998"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

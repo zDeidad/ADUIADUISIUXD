@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "335e6d0c84ed49958e25da81bceb7d73"
+	name: "jeronight#335e6d0c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

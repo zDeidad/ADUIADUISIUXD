@@ -1,0 +1,17 @@
+{
+	id: "335e6d0c-84ed-4995-8e25-da81bceb7d73"
+	type: "player"
+	player_name: "jeronight"
+	ranks: {
+		335e6d0c-84ed-4995-8e25-da81bceb7d73: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jeronight"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6CFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

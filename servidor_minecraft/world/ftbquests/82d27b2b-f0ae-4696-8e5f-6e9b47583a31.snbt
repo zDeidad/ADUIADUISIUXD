@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "82d27b2bf0ae46968e5f6e9b47583a31"
+	name: "FKECOST#82d27b2b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

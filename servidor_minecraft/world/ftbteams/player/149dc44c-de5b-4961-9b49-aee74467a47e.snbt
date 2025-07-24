@@ -1,0 +1,17 @@
+{
+	id: "149dc44c-de5b-4961-9b49-aee74467a47e"
+	type: "player"
+	player_name: "_Alxjo_"
+	ranks: {
+		149dc44c-de5b-4961-9b49-aee74467a47e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_Alxjo_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

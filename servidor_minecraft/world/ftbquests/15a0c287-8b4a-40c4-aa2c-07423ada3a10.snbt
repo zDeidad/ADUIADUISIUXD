@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "15a0c2878b4a40c4aa2c07423ada3a10"
+	name: "4ndr3s11#15a0c287"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1753321456072L
+		2574E7CF699D5B45: 1753321456072L
+		0470194500CBE26C: 1753321456072L
+		0000000000000001: 1753321456072L
+	}
+	completed: {
+		2574E7CF699D5B45: 1753321456077L
+		0470194500CBE26C: 1753321456077L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
