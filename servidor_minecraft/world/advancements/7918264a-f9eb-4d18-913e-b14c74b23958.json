@@ -8703,6 +8703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-07-25 20:59:59 +0000"
@@ -8763,6 +8769,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-07-25 21:43:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-07-25 21:28:58 +0000"
@@ -8775,6 +8787,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2025-07-25 20:56:19 +0000"
@@ -8784,6 +8808,12 @@
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2025-07-25 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-07-25 21:38:49 +0000"
     },
     "done": true
   },
@@ -8811,9 +8841,33 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cyan_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-07-25 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-07-25 21:38:49 +0000"
     },
     "done": true
   },
@@ -8847,6 +8901,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-25 21:28:58 +0000"
@@ -8856,6 +8922,12 @@
   "hearth_and_home:recipes/calcite_column": {
     "criteria": {
       "has_the_recipe": "2025-07-25 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_cyan_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-25 21:38:49 +0000"
     },
     "done": true
   },
@@ -8883,6 +8955,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_table": {
     "criteria": {
       "has_planks": "2025-07-25 21:28:58 +0000"
@@ -8901,9 +8979,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-07-25 21:43:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/rope": {
     "criteria": {
       "has_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_stool": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:38:49 +0000"
     },
     "done": true
   },
@@ -8943,6 +9033,12 @@
     },
     "done": true
   },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-25 21:38:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-07-25 20:56:19 +0000"
@@ -8958,6 +9054,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-25 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:38:49 +0000"
     },
     "done": true
   },
