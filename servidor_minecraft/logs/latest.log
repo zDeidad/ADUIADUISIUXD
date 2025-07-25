@@ -4074,3 +4074,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 20:58:32.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
 [25Jul2025 20:58:32.569] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 38 chunks for filePath './world/chunk_activity_info/the_nether.dat' took 2 milliseconds
 [25Jul2025 20:58:32.577] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 38 chunks for dimension 'the_nether' took 8 milliseconds
+[25Jul2025 21:00:30.921] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 40 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 21:00:30.922] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 87 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 21:00:30.932] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2714 chunks for dimension 'overworld' took 10 milliseconds
+[25Jul2025 21:01:16.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/10408, l='ServerLevel[world]', x=170.30, y=89.01, z=108.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:01:27.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/11045, l='ServerLevel[world]', x=176.70, y=89.01, z=115.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:05:30.900] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 52 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 21:05:30.901] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 87 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 21:05:30.908] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2714 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 21:06:30.572] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/16505, l='ServerLevel[world]', x=-278.00, y=31.00, z=-71.00] as it would cause deadlock

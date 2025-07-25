@@ -8673,5 +8673,59 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-07-25 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/straw": {
+    "criteria": {
+      "has_straw_bale": "2025-07-25 20:56:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-07-25 20:56:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

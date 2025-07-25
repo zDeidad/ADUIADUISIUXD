@@ -3511,6 +3511,8 @@
       "minecraft:hoglin": "2025-07-25 19:11:02 +0000",
       "minecraft:vindicator": "2025-07-24 18:54:48 +0000",
       "minecraft:spider": "2025-07-24 02:14:56 +0000",
+      "minecraft:piglin_brute": "2025-07-25 21:00:15 +0000",
+      "minecraft:piglin": "2025-07-25 21:00:31 +0000",
       "minecraft:zombie": "2025-07-24 02:25:16 +0000"
     },
     "done": false
@@ -9790,9 +9792,45 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-07-25 20:59:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-07-25 20:59:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/flower_to_white_dye": {
     "criteria": {
       "has_white_flower": "2025-07-25 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-07-25 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-07-25 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-07-25 20:59:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-07-25 20:59:22 +0000"
     },
     "done": true
   },
@@ -9805,6 +9843,12 @@
   "aether:recipes/building_blocks/skyroot_planks": {
     "criteria": {
       "has_logs": "2025-07-25 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-07-25 20:59:16 +0000"
     },
     "done": true
   },
@@ -9826,15 +9870,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-07-25 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-07-25 20:59:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hollow_skyroot_log_from_skyroot_log_stonecutting": {
     "criteria": {
       "has_skyroot_log": "2025-07-25 20:48:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-25 21:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-25 20:59:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_wood": {
     "criteria": {
       "has_log": "2025-07-25 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-25 20:59:07 +0000"
     },
     "done": true
   },
