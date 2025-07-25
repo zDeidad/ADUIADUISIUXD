@@ -4130,3 +4130,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 21:26:30.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
 [25Jul2025 21:29:50.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14074, l='ServerLevel[world]', x=152.70, y=97.01, z=108.26] died: Dinnerbone was shot by Dinnerbone
 [25Jul2025 21:30:00.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/10432, l='ServerLevel[world]', x=144.30, y=97.01, z=107.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:30:05.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12374, l='ServerLevel[world]', x=144.30, y=97.01, z=115.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:30:35.440] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 99 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 21:30:35.440] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 21:30:35.448] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2861 chunks for dimension 'overworld' took 8 milliseconds
+[25Jul2025 21:30:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST was slain by Giddy Blaze
+[25Jul2025 21:31:00.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[25Jul2025 21:33:08.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST moved wrongly!
+[25Jul2025 21:33:21.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST tried to swim in lava
+[25Jul2025 21:33:40.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[25Jul2025 21:35:40.028] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 21:35:40.029] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 21:35:40.041] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2861 chunks for dimension 'overworld' took 12 milliseconds
+[25Jul2025 21:35:53.796] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/6315, l='ServerLevel[world]', x=162.70, y=81.01, z=125.78] died: Dinnerbone was shot by rfrd18
+[25Jul2025 21:35:58.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/25396, l='ServerLevel[world]', x=162.28, y=121.01, z=118.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:36:39.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Disconnected
+[25Jul2025 21:36:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[25Jul2025 21:36:39.708] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 21:39:34.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 was shot by Dinnerbone
