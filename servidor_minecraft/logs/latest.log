@@ -4210,3 +4210,15 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 22:10:39.944] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 1 milliseconds
 [25Jul2025 22:10:39.944] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
 [25Jul2025 22:10:39.954] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2865 chunks for dimension 'overworld' took 8 milliseconds
+[25Jul2025 22:14:38.995] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 120 chunks for filePath './world/chunk_activity_info/twilight_forest.dat' took 3 milliseconds
+[25Jul2025 22:14:38.996] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 120 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:15:00.708] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 22:15:00.712] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 4ms
+[25Jul2025 22:15:39.945] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 22:15:39.946] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 22:15:39.953] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2887 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 22:15:39.954] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:20:39.985] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 22:20:39.986] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 22:20:39.993] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2887 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 22:20:39.994] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
