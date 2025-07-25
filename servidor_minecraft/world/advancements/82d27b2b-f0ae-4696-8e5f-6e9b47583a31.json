@@ -8996,6 +8996,18 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-07-25 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:golden_heights": "2025-07-25 19:16:19 +0000"
+    },
+    "done": false
+  },
   "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 19:11:04 +0000"
@@ -9035,6 +9047,12 @@
   "mynethersdelight:recipes/misc/crafting/nether_burger": {
     "criteria": {
       "has_hoglin_loin": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-07-25 19:16:18 +0000"
     },
     "done": true
   },
