@@ -7994,105 +7994,15 @@
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:igloos": {
-    "criteria": {
-      "in_igloo_grassy": "2025-07-25 19:58:39 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/decorations/combustion_table": {
-    "criteria": {
-      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/bow_repairing": {
-    "criteria": {
-      "has_bow": "2025-07-25 20:06:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2025-07-25 19:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-07-25 20:20:34 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
-    },
-    "done": true
-  },
-  "galosphere:adventure/silver_ingot": {
-    "criteria": {
-      "silver_ingot": "2025-07-25 19:57:04 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_obsidian": "2025-07-25 20:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2025-07-25 20:01:36 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-07-25 20:20:34 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/silver_lattice": {
-    "criteria": {
-      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
-    },
-    "done": true
-  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-07-25 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-07-25 19:45:05 +0000"
     },
     "done": true
   },
@@ -8102,27 +8012,39 @@
     },
     "done": false
   },
-  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+  "supplementaries:recipes/sign_post_oak": {
     "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
+      "has_oak_sign": "2025-07-25 19:46:56 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+  "aether:read_lore": {
     "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
+      "lore_book_entry": "2025-07-25 19:51:05 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+  "galosphere:recipes/misc/silver_nugget": {
     "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
+      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+  "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
+      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-07-25 19:57:04 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
     },
     "done": true
   },
@@ -8138,51 +8060,57 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
+  "galosphere:recipes/redstone/silver_balance": {
     "criteria": {
-      "killed_illusioner": "2025-07-25 20:06:03 +0000"
+      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_ingots/silver": "2025-07-25 19:57:04 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-07-25 19:58:39 +0000"
     },
     "done": false
   },
-  "aether:recipes/combat/golden_sword_repairing": {
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
     "criteria": {
-      "has_golden_sword": "2025-07-25 20:01:36 +0000"
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
     "criteria": {
-      "has_platinum_chunk": "2025-07-25 20:10:30 +0000"
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
     "criteria": {
-      "has_obsidian": "2025-07-25 20:01:26 +0000"
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
     "criteria": {
-      "shot_arrow": "2025-07-25 20:09:37 +0000"
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
     "criteria": {
-      "voluntary_exile": "2025-07-25 20:11:18 +0000"
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
     },
     "done": true
   },
-  "repurposed_structures:outposts": {
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
     "criteria": {
-      "in_outpost_mangrove": "2025-07-25 20:12:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-07-25 20:06:05 +0000"
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
     },
     "done": true
   },
@@ -8192,9 +8120,51 @@
     },
     "done": true
   },
-  "galosphere:recipes/redstone/silver_balance": {
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
     "criteria": {
-      "has_silver_ingot": "2025-07-25 19:57:04 +0000"
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-07-25 20:01:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 20:01:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 20:01:26 +0000"
     },
     "done": true
   },
@@ -8210,30 +8180,6 @@
     },
     "done": true
   },
-  "delightful:recipes/knives/silver_knife": {
-    "criteria": {
-      "has_ingots/silver": "2025-07-25 19:57:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-07-25 20:01:36 +0000"
-    },
-    "done": true
-  },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-07-25 19:45:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-25 20:01:26 +0000"
@@ -8243,18 +8189,6 @@
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile": {
-    "criteria": {
-      "has_blue_obsidian": "2025-07-25 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "aether:read_lore": {
-    "criteria": {
-      "lore_book_entry": "2025-07-25 19:51:05 +0000"
     },
     "done": true
   },
@@ -8270,12 +8204,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian": "2025-07-25 20:01:25 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-25 20:01:26 +0000"
@@ -8288,15 +8216,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-25 20:01:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-07-25 20:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-25 20:01:36 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-07-25 20:06:03 +0000"
+    },
+    "done": false
+  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-07-25 20:06:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "aether:recipes/combat/bow_repairing": {
     "criteria": {
-      "has_slime_ball": "2025-07-25 20:20:34 +0000"
+      "has_bow": "2025-07-25 20:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-25 20:06:05 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-07-25 20:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-25 20:09:37 +0000"
     },
     "done": true
   },
@@ -8306,9 +8276,255 @@
     },
     "done": true
   },
-  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+  "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
-      "has_bow": "2025-07-25 20:06:05 +0000"
+      "has_platinum_chunk": "2025-07-25 20:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-25 20:11:18 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_mangrove": "2025-07-25 20:12:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 20:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 20:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-25 20:20:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_dark_oak": {
+    "criteria": {
+      "has_item": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-25 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-07-25 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-25 20:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-25 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-07-25 20:28:24 +0000"
     },
     "done": true
   },

@@ -9087,6 +9087,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/cold_parachute": {
     "criteria": {
       "has_cold_aercloud": "2025-07-25 20:14:09 +0000"
@@ -9105,9 +9111,33 @@
     },
     "done": true
   },
+  "lost_aether_content:recipes/combat/zanite_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/raw_gravitite_block": {
+    "criteria": {
+      "has_raw_gravitite": "2025-07-25 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/blue_gummy_swet": {
     "criteria": {
       "has_swet_ball": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },
@@ -9159,6 +9189,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_wall": {
     "criteria": {
       "has_holystone": "2025-07-25 20:20:21 +0000"
@@ -9177,9 +9219,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/zanite_knife": {
+    "criteria": {
+      "has_gems/zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/incubator": {
     "criteria": {
       "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },
@@ -9201,6 +9261,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/enchanted_ring": {
     "criteria": {
       "has_ambrosium_shard": "2025-07-25 20:20:38 +0000"
@@ -9210,6 +9276,12 @@
   "aether_redux:recipes/misc/sentrite_lantern": {
     "criteria": {
       "has_ambrosium_shard": "2025-07-25 20:20:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },
@@ -9255,6 +9327,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/altar": {
     "criteria": {
       "has_holystone": "2025-07-25 20:20:21 +0000"
@@ -9282,6 +9360,12 @@
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-07-25 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },
@@ -9315,9 +9399,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },
@@ -9339,6 +9435,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_aercloud_freezing": {
     "criteria": {
       "has_cold_aercloud": "2025-07-25 20:14:09 +0000"
@@ -9348,6 +9450,12 @@
   "aether:recipes/tools/swet_lead": {
     "criteria": {
       "has_swet_balls": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },
@@ -9378,6 +9486,12 @@
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },
@@ -9417,9 +9531,21 @@
     },
     "done": true
   },
+  "aether_redux:recipes/building_blocks/enchanted_gravitite_enchanting_from_raw_ore": {
+    "criteria": {
+      "has_raw_gravitite": "2025-07-25 20:31:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/golden_aercloud_enchanting": {
     "criteria": {
       "has_cold_aercloud": "2025-07-25 20:14:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite": "2025-07-25 20:28:40 +0000"
     },
     "done": true
   },

@@ -4107,3 +4107,28 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 20:24:17.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17361, l='ServerLevel[world]', x=162.70, y=81.01, z=118.30] died: Dinnerbone was shot by Dinnerbone
 [25Jul2025 20:24:17.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17362, l='ServerLevel[world]', x=152.30, y=81.01, z=128.70] died: Dinnerbone was shot by Dinnerbone
 [25Jul2025 20:24:21.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15115, l='ServerLevel[world]', x=174.70, y=73.01, z=115.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 20:27:14.777] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 44 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 20:27:14.784] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2586 chunks for dimension 'overworld' took 6 milliseconds
+[25Jul2025 20:27:19.016] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rfrd18 is 7918264a-f9eb-4d18-913e-b14c74b23958
+[25Jul2025 20:27:22.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rfrd18[/100.120.122.19:54190] logged in with entity id 19247 at (153.30000001192093, 67.0, -1394.699999988079)
+[25Jul2025 20:27:22.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to rfrd18
+[25Jul2025 20:27:22.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to rfrd18
+[25Jul2025 20:27:22.062] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to rfrd18
+[25Jul2025 20:27:22.062] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to rfrd18
+[25Jul2025 20:27:22.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to rfrd18
+[25Jul2025 20:27:22.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to rfrd18
+[25Jul2025 20:27:22.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to rfrd18
+[25Jul2025 20:27:22.076] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 20:27:22.096] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player rfrd18
+[25Jul2025 20:27:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 joined the game
+[25Jul2025 20:27:22.170] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7918264a-f9eb-4d18-913e-b14c74b23958
+[25Jul2025 20:27:22.186] [Server thread/INFO] [Jade/]: Syncing config to rfrd18 (7918264a-f9eb-4d18-913e-b14c74b23958)
+[25Jul2025 20:27:29.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 was slain by Vindicator
+[25Jul2025 20:27:29.451] [Server thread/INFO] [ping-wheel/]: Channel update: rfrd18 -> default
+[25Jul2025 20:28:44.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 was slain by Wither Skeleton
+[25Jul2025 20:29:49.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 was slain by Vindicator
+[25Jul2025 20:32:14.804] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 46 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 20:32:14.844] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2586 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 20:32:58.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/22102, l='ServerLevel[world]', x=147.70, y=65.01, z=115.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 20:33:02.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20486, l='ServerLevel[world]', x=148.70, y=65.01, z=114.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 20:34:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 was slain by Basher
