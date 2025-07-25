@@ -3303,6 +3303,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-25 20:14:26 +0000",
       "cooked_mutton": "2025-07-25 20:07:14 +0000",
       "cooked_beef": "2025-07-25 02:16:32 +0000",
       "bread": "2025-07-24 02:07:37 +0000",
@@ -3340,6 +3341,7 @@
       "minecraft:spider": "2025-07-24 02:19:53 +0000",
       "quark:forgotten": "2025-07-25 19:47:33 +0000",
       "minecraft:wither_skeleton": "2025-07-24 02:12:48 +0000",
+      "minecraft:cave_spider": "2025-07-25 20:12:29 +0000",
       "minecraft:zombie": "2025-07-24 02:19:59 +0000"
     },
     "done": false
@@ -5372,6 +5374,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-07-25 20:21:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-07-25 19:52:30 +0000"
@@ -5471,6 +5479,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-25 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-25 20:13:28 +0000"
     },
     "done": true
   },
@@ -5591,6 +5605,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 20:06:01 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-07-25 20:13:23 +0000"
     },
     "done": true
   },
@@ -6020,6 +6040,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-25 20:22:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-25 20:04:26 +0000"
@@ -6074,6 +6100,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-25 20:20:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-25 20:05:50 +0000"
@@ -6107,6 +6139,12 @@
   "stoneworks:recipes/building_blocks/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-25 19:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-25 20:21:47 +0000"
     },
     "done": true
   },
@@ -6446,6 +6484,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-07-25 20:13:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-25 19:52:30 +0000"
@@ -6647,6 +6691,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-25 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-07-25 20:21:47 +0000"
     },
     "done": true
   },

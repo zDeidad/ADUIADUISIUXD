@@ -9070,9 +9070,370 @@
   },
   "deep_aether:explore_aether": {
     "criteria": {
+      "aether:skyroot_grove": "2025-07-25 20:15:55 +0000",
       "deep_aether:golden_heights": "2025-07-25 19:16:19 +0000"
     },
     "done": false
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-25 20:14:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/mossy_holystone_from_aether_moss": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_gummy_swet": {
+    "criteria": {
+      "has_swet_ball": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_down_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-07-25 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-25 20:12:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/enchanted_ring": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-07-25 20:20:38 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/sentrite_lantern": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-07-25 20:20:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/aether_coarse_dirt": {
+    "criteria": {
+      "has_aether_dirt": "2025-07-25 20:21:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-07-25 20:20:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-25 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_swet_jelly": {
+    "criteria": {
+      "has_swet_ball": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/chiseled_holystone_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/veridium_lantern": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-07-25 20:20:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/holystone_knife": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-25 20:14:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-07-25 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-25 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-07-25 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_up_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-25 20:14:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tiles_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-25 20:20:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
