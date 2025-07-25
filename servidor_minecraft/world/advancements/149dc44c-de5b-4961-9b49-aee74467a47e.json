@@ -2925,6 +2925,7 @@
       "minecraft:skeleton": "2025-07-24 03:05:26 +0000",
       "minecraft:spider": "2025-07-24 03:34:08 +0000",
       "minecraft:creeper": "2025-07-24 19:15:23 +0000",
+      "minecraft:witch": "2025-07-25 02:10:38 +0000",
       "minecraft:wither_skeleton": "2025-07-24 02:09:16 +0000",
       "minecraft:silverfish": "2025-07-24 19:39:37 +0000",
       "minecraft:zombie": "2025-07-24 02:17:25 +0000",
@@ -7993,6 +7994,54 @@
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2025-07-24 20:40:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 02:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 02:17:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 02:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-25 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 02:17:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 02:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 02:17:14 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-25 02:17:14 +0000"
     },
     "done": true
   },

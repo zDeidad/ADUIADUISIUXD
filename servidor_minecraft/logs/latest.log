@@ -4040,3 +4040,25 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 02:10:17.490] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 15a0c287-8b4a-40c4-aa2c-07423ada3a10
 [25Jul2025 02:10:17.502] [Server thread/INFO] [Jade/]: Syncing config to 4ndr3s11 (15a0c287-8b4a-40c4-aa2c-07423ada3a10)
 [25Jul2025 02:10:23.290] [Server thread/INFO] [ping-wheel/]: Channel update: 4ndr3s11 -> default
+[25Jul2025 02:13:52.947] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 02:13:52.954] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2366 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 02:14:56.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Alxjo_ lost connection: Disconnected
+[25Jul2025 02:14:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ left the game
+[25Jul2025 02:14:56.141] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
+[25Jul2025 02:14:59.877] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Alxjo_ is 149dc44c-de5b-4961-9b49-aee74467a47e
+[25Jul2025 02:15:02.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Alxjo_[/100.110.49.30:54892] logged in with entity id 8786 at (960.9256590065519, 65.0, -416.6362104094432)
+[25Jul2025 02:15:02.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to _Alxjo_
+[25Jul2025 02:15:02.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to _Alxjo_
+[25Jul2025 02:15:02.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to _Alxjo_
+[25Jul2025 02:15:02.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to _Alxjo_
+[25Jul2025 02:15:02.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to _Alxjo_
+[25Jul2025 02:15:02.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to _Alxjo_
+[25Jul2025 02:15:02.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to _Alxjo_
+[25Jul2025 02:15:02.880] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 02:15:02.909] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player _Alxjo_
+[25Jul2025 02:15:02.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ joined the game
+[25Jul2025 02:15:03.029] [Server thread/INFO] [Jade/]: Syncing config to _Alxjo_ (149dc44c-de5b-4961-9b49-aee74467a47e)
+[25Jul2025 02:15:03.031] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
+[25Jul2025 02:15:08.388] [Server thread/INFO] [ping-wheel/]: Channel update: _Alxjo_ -> default
+[25Jul2025 02:18:52.994] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 02:18:53.001] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2378 chunks for dimension 'overworld' took 7 milliseconds
