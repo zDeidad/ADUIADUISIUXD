@@ -2877,6 +2877,7 @@
       "cooked_mutton": "2025-07-24 20:13:29 +0000",
       "baked_potato": "2025-07-24 02:41:21 +0000",
       "apple": "2025-07-24 02:40:26 +0000",
+      "spider_eye": "2025-07-25 22:37:06 +0000",
       "potato": "2025-07-24 20:55:22 +0000",
       "bread": "2025-07-24 02:30:04 +0000",
       "rotten_flesh": "2025-07-24 03:20:40 +0000",
@@ -3283,6 +3284,8 @@
       "minecraft:spider": "2025-07-24 02:57:39 +0000",
       "minecraft:creeper": "2025-07-24 03:05:26 +0000",
       "minecraft:slime": "2025-07-25 20:15:14 +0000",
+      "quark:forgotten": "2025-07-25 22:49:06 +0000",
+      "minecraft:witch": "2025-07-25 22:34:30 +0000",
       "minecraft:cave_spider": "2025-07-24 20:53:02 +0000",
       "minecraft:enderman": "2025-07-24 03:38:17 +0000",
       "minecraft:vex": "2025-07-24 02:24:37 +0000",
@@ -8949,6 +8952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-25 22:29:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/blue_cape_cyan_wool": {
     "criteria": {
       "has_cyan_wool": "2025-07-25 21:38:49 +0000"
@@ -8979,6 +8988,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-07-25 22:36:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2025-07-25 21:56:28 +0000"
@@ -9006,6 +9021,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-07-25 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-07-25 22:22:10 +0000"
     },
     "done": true
   },

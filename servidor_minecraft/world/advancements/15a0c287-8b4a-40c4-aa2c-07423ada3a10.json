@@ -71,6 +71,7 @@
       "overgrown_greens": "2025-07-24 02:29:34 +0000",
       "redwood_forest": "2025-07-24 02:20:24 +0000",
       "dune_beach": "2025-07-25 22:11:29 +0000",
+      "lavender_field": "2025-07-25 22:34:00 +0000",
       "prairie": "2025-07-24 02:06:39 +0000",
       "crag": "2025-07-24 02:03:29 +0000"
     },
@@ -512,6 +513,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-25 20:02:28 +0000",
       "minecraft:river": "2025-07-25 22:11:15 +0000",
+      "minecraft:swamp": "2025-07-25 22:40:22 +0000",
       "minecraft:forest": "2025-07-24 02:05:00 +0000",
       "minecraft:ocean": "2025-07-25 20:04:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 02:22:38 +0000",
@@ -7208,33 +7210,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/vp/biomesoplenty/redwood_horticulturist_table": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-07-25 21:44:04 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_palisade": {
-    "criteria": {
-      "has_log": "2025-07-25 22:17:12 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/bp/biomesoplenty/redwood_backpack_shelf": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "has_cornflower": "2025-07-25 20:50:21 +0000"
     },
     "done": true
   },
@@ -7244,165 +7222,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_nightstand": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_birch_nightstand": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-07-25 22:19:02 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_pillar_trim": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/campfire/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-07-25 22:18:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_sheet": {
-    "criteria": {
-      "has_white_sheet": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_seat": {
-    "criteria": {
-      "has_plank": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_bowl": {
-    "criteria": {
-      "has_blue_bowl": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_cupboard": {
-    "criteria": {
-      "has_birch_cupboard": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-07-25 22:17:12 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_fancy_bed": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_counter": {
-    "criteria": {
-      "has_birch_counter": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_cupboard": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_parquet": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_bench": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_sheet": {
-    "criteria": {
-      "has_blue_sheet": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_nightstand": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/redwood_drawer": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/quartz_glass_pane_blue": {
-    "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_plate": {
-    "criteria": {
-      "has_blue_plate": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_desk": {
-    "criteria": {
-      "has_birch_desk": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_beam": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_side_table": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/redwood_shutter": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "enchanted_item": "2025-07-25 21:04:01 +0000"
     },
     "done": true
   },
@@ -7412,15 +7234,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_candle": {
+  "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
+      "has_golden_chestplate": "2025-07-25 21:21:51 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/blue_ice_freezing": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_water_bucket": "2025-07-25 21:55:38 +0000"
+      "has_golden_chestplate": "2025-07-25 21:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-25 21:44:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-07-25 21:53:04 +0000"
     },
     "done": true
   },
@@ -7430,21 +7342,117 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_fancy_bed": {
+  "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
-      "has_birch_fancy_bed": "2025-07-25 22:17:15 +0000"
+      "has_golden_medium_pot": "2025-07-25 21:53:09 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_trim": {
+  "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "has_golden_thick_pot": "2025-07-25 21:53:09 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_log": "2025-07-25 22:19:02 +0000"
+      "has_gold_block": "2025-07-25 21:53:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-07-25 21:53:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-25 21:55:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-25 21:55:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-07-25 21:55:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-25 21:55:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-07-25 21:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-25 21:55:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-07-25 21:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-25 21:55:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-07-25 21:55:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-25 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-25 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-25 22:00:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-07-25 22:14:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-07-25 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-07-25 22:16:41 +0000"
     },
     "done": true
   },
@@ -7454,33 +7462,111 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2025-07-25 22:16:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
+      "has_wool": "2025-07-25 22:16:41 +0000"
     },
     "done": true
   },
-  "aether_redux:recipes/combat/veridium_dart": {
+  "another_furniture:recipes/white_stool": {
     "criteria": {
-      "has_feather": "2025-07-25 22:20:06 +0000"
+      "has_wool": "2025-07-25 22:16:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_blue_wool": "2025-07-25 22:16:59 +0000"
+      "has_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_bowl": {
+    "criteria": {
+      "has_blue_bowl": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_plate": {
+    "criteria": {
+      "has_blue_plate": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
     },
     "done": true
   },
@@ -7496,57 +7582,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/redwood_bench": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_bed": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/stripped_redwood_post": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/thallasium_bulb_lantern_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-25 22:17:12 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_stool": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-07-25 22:00:03 +0000"
     },
     "done": true
   },
@@ -7562,33 +7600,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2025-07-25 21:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/redwood_ladder": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/quartz_glass_framed_blue": {
     "criteria": {
       "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/redwood_chest": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
     },
     "done": true
   },
@@ -7598,195 +7612,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/biomesoplenty/redwood_table": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2025-07-25 21:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_birch": {
-    "criteria": {
-      "has_item": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/biomesoplenty/redwood_banister": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_pillar_trim": {
-    "criteria": {
-      "has_birch_pillar_trim": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_redwood": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_chair": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/redwood_post": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_cushion": {
-    "criteria": {
-      "has_blue_cushion": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/storage/acorn_storage_block": {
-    "criteria": {
-      "has_acorn": "2025-07-25 22:18:17 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_bench": {
-    "criteria": {
-      "has_birch_bench": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_counter": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_shelf": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_white": {
-    "criteria": {
-      "has_white_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_support": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_blue": {
-    "criteria": {
-      "has_blue_wool": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_palisade": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-07-25 22:00:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_trim_from_redwood_vertical_trim": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/packed_ice_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-07-25 21:55:38 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_lattice": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_couch": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_shelf": {
-    "criteria": {
-      "has_birch_shelf": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:19:44 +0000"
     },
     "done": true
   },
@@ -7796,75 +7624,99 @@
     },
     "done": true
   },
-  "another_furniture:recipes/blue_curtain": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-07-25 21:55:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_sign": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/vertical_redwood_planks": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-07-25 22:20:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-25 22:16:55 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_chair": {
+  "minecraft:recipes/misc/purple_dye": {
     "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_white": {
+  "betterend:recipes/misc/hydralux_petal_block_blue": {
     "criteria": {
-      "has_white_wool": "2025-07-25 22:16:41 +0000"
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_seat": {
+  "betternether:recipes/building_blocks/quartz_glass_blue": {
     "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_dining_bench": {
+  "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
     "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_crockery_combo": {
+    "criteria": {
+      "has_blue_crockery_combo": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-07-25 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-25 22:16:59 +0000"
     },
     "done": true
   },
@@ -7880,159 +7732,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-07-25 20:50:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/white_cape": {
-    "criteria": {
-      "has_white_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-07-25 22:00:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/biomesoplenty/redwood_furnace_boat": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smelting/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-07-25 22:18:17 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/redwood_bookshelf": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2025-07-25 22:14:54 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-07-25 21:55:38 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/redwood_chair": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_support": {
-    "criteria": {
-      "has_plank": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-07-25 22:20:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-07-25 21:55:38 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2025-07-25 21:21:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_fence": {
-    "criteria": {
-      "has_planks": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_table": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_corner_trim": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/redwood_trapped_chest": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smoking/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-07-25 22:18:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-07-25 21:55:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/blossom_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-07-25 21:55:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_drawer": {
-    "criteria": {
-      "has_birch_drawer": "2025-07-25 22:17:15 +0000"
     },
     "done": true
   },
@@ -8042,75 +7744,159 @@
     },
     "done": true
   },
+  "another_furniture:recipes/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-25 22:16:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-07-25 22:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-25 22:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-25 22:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_item": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_support": {
+    "criteria": {
+      "has_plank": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-07-25 22:17:15 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_desk": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-07-25 21:53:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/faf/biomesoplenty/redwood_beehive": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-07-25 22:17:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-07-25 21:21:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-07-25 22:20:05 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_vertical_trim": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/hydralux_petal_block_blue": {
-    "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_drawer": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_sofa": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:59 +0000"
     },
     "done": true
   },
@@ -8132,99 +7918,15 @@
     },
     "done": true
   },
-  "another_furniture:recipes/birch_flower_box": {
-    "criteria": {
-      "has_slab": "2025-07-25 22:17:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-25 22:17:15 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/white_curtain": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_redwood_log": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_sanded_wood": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_blue": {
-    "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_shutter": {
-    "criteria": {
-      "has_slab": "2025-07-25 22:17:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-25 21:55:38 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/redwood_flower_box": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
-    "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/redwood_shelf": {
-    "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
     },
     "done": true
   },
@@ -8240,21 +7942,51 @@
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/nut_butter_bottle": {
+  "supplementaries:recipes/sign_post_birch": {
     "criteria": {
-      "has_nuts": "2025-07-25 22:18:17 +0000"
+      "has_the_recipe": "2025-07-25 22:17:15 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_shelf": {
+  "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "has_birch_dining_bench": "2025-07-25 22:17:15 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+  "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+      "has_birch_chair": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-07-25 22:17:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-25 22:17:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-25 22:17:17 +0000"
     },
     "done": true
   },
@@ -8264,33 +7996,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "twigs:recipes/tables/birch_table_slab": {
     "criteria": {
-      "has_feather": "2025-07-25 22:20:06 +0000"
+      "has_bamboo": "2025-07-25 22:17:17 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/biomesoplenty/hollow_redwood_log": {
+  "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "roasted_acorn": "2025-07-25 22:18:17 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+  "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+      "has_acorn": "2025-07-25 22:18:17 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_dart": {
+  "delightful:recipes/smelting/roasted_acorn": {
     "criteria": {
-      "has_feather": "2025-07-25 22:20:06 +0000"
+      "roasted_acorn": "2025-07-25 22:18:17 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_birch": {
+  "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
-      "has_the_recipe": "2025-07-25 22:17:15 +0000"
+      "roasted_acorn": "2025-07-25 22:18:17 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-07-25 22:18:17 +0000"
     },
     "done": true
   },
@@ -8300,27 +8038,339 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "enchanted_item": "2025-07-25 21:04:01 +0000"
+      "has_logs": "2025-07-25 22:19:02 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_cushion": {
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
     "criteria": {
-      "has_white_cushion": "2025-07-25 22:16:41 +0000"
+      "has_log": "2025-07-25 22:19:02 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+  "everycomp:recipes/decorations/vp/biomesoplenty/redwood_horticulturist_table": {
     "criteria": {
-      "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+      "has_item": "2025-07-25 22:19:44 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_dining_bench": {
+  "everycomp:recipes/decorations/bp/biomesoplenty/redwood_backpack_shelf": {
     "criteria": {
-      "has_birch_dining_bench": "2025-07-25 22:17:15 +0000"
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_pillar_trim": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_fancy_bed": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_cupboard": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_parquet": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_bench": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_nightstand": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/redwood_drawer": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_beam": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_side_table": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/redwood_shutter": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_trim": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/redwood_bench": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_redwood_post": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/redwood_ladder": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/redwood_chest": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/redwood_table": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/redwood_banister": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_redwood": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/redwood_post": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_counter": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_support": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_palisade": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_trim_from_redwood_vertical_trim": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_lattice": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_couch": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_redwood_planks": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_chair": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/redwood_seat": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_dining_bench": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/redwood_furnace_boat": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/redwood_chair": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_table": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_corner_trim": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/redwood_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_desk": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/redwood_beehive": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_vertical_trim": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_drawer": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/redwood_sanded_wood": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/redwood_flower_box": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/redwood_shelf": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/redwood_shelf": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
     },
     "done": true
   },
@@ -8336,30 +8386,6 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/sweet_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-07-25 21:55:38 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_bulb_lantern_blue": {
-    "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_chair": {
-    "criteria": {
-      "has_birch_chair": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile": {
-    "criteria": {
-      "has_obsidian": "2025-07-25 21:53:04 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2025-07-25 22:19:44 +0000"
@@ -8372,51 +8398,51 @@
     },
     "done": true
   },
-  "twigs:recipes/tables/birch_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-07-25 22:17:17 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_lamp": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-07-25 22:16:41 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_lamp": {
-    "criteria": {
-      "has_wool": "2025-07-25 22:16:59 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_crockery_combo": {
-    "criteria": {
-      "has_blue_crockery_combo": "2025-07-25 22:16:55 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_wide_pot": {
-    "criteria": {
-      "has_golden_wide_pot": "2025-07-25 21:53:09 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/birch_table": {
-    "criteria": {
-      "has_bamboo": "2025-07-25 22:17:15 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/fd/biomesoplenty/redwood_cabinet": {
     "criteria": {
       "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/redwood_table": {
+    "criteria": {
+      "has_item": "2025-07-25 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-25 22:20:05 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-07-25 22:20:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-25 22:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-25 22:20:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-07-25 22:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-25 22:20:11 +0000"
     },
     "done": true
   },
@@ -8426,27 +8452,399 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "supplementaries:recipes/sign_post_oak": {
     "criteria": {
-      "has_planks": "2025-07-25 22:17:15 +0000"
+      "has_oak_sign": "2025-07-25 22:25:26 +0000"
     },
     "done": true
   },
-  "twilightforest:root": {
+  "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
-      "in_tf": "2025-07-25 22:14:41 +0000"
+      "has_rope": "2025-07-25 22:30:27 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/iron_bulb_lantern_blue": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_blue_dye": "2025-07-25 22:16:55 +0000"
+      "tamed_animal": "2025-07-25 22:32:02 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/tw/biomesoplenty/redwood_table": {
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "has_item": "2025-07-25 22:19:44 +0000"
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-25 22:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-25 22:37:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-07-25 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-25 22:46:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-25 22:46:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-07-25 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-25 22:37:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-25 22:47:41 +0000"
     },
     "done": true
   },

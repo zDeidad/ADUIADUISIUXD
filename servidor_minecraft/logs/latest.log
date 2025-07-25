@@ -4222,3 +4222,153 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 22:20:39.986] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
 [25Jul2025 22:20:39.993] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2887 chunks for dimension 'overworld' took 7 milliseconds
 [25Jul2025 22:20:39.994] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:22:17.474] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jeronight is 335e6d0c-84ed-4995-8e25-da81bceb7d73
+[25Jul2025 22:22:20.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeronight[/100.67.68.64:51466] logged in with entity id 49273 at (488.55446040987283, 64.0, -582.9620921507269)
+[25Jul2025 22:22:20.499] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jeronight
+[25Jul2025 22:22:20.499] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jeronight
+[25Jul2025 22:22:20.500] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jeronight
+[25Jul2025 22:22:20.500] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jeronight
+[25Jul2025 22:22:20.501] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jeronight
+[25Jul2025 22:22:20.503] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jeronight
+[25Jul2025 22:22:20.504] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jeronight
+[25Jul2025 22:22:20.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 22:22:20.536] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player jeronight
+[25Jul2025 22:22:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeronight joined the game
+[25Jul2025 22:22:20.604] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 335e6d0c-84ed-4995-8e25-da81bceb7d73
+[25Jul2025 22:22:20.617] [Server thread/INFO] [Jade/]: Syncing config to jeronight (335e6d0c-84ed-4995-8e25-da81bceb7d73)
+[25Jul2025 22:22:27.920] [Server thread/INFO] [ping-wheel/]: Channel update: jeronight -> default
+[25Jul2025 22:25:39.944] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 22:25:39.944] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 22:25:39.958] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2887 chunks for dimension 'overworld' took 14 milliseconds
+[25Jul2025 22:25:39.959] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:30:39.994] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 2 milliseconds
+[25Jul2025 22:30:39.996] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 2 milliseconds
+[25Jul2025 22:30:40.004] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2888 chunks for dimension 'overworld' took 8 milliseconds
+[25Jul2025 22:30:40.005] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:33:10.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4ndr3s11 lost connection: Disconnected
+[25Jul2025 22:33:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 left the game
+[25Jul2025 22:33:10.345] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 22:33:14.625] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player 4ndr3s11 is 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 22:33:17.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4ndr3s11[/100.91.251.109:62847] logged in with entity id 52717 at (661.0644228896906, 63.85000001788139, -351.813855731081)
+[25Jul2025 22:33:17.576] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 4ndr3s11
+[25Jul2025 22:33:17.577] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 4ndr3s11
+[25Jul2025 22:33:17.577] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 4ndr3s11
+[25Jul2025 22:33:17.577] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 4ndr3s11
+[25Jul2025 22:33:17.578] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 4ndr3s11
+[25Jul2025 22:33:17.580] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 4ndr3s11
+[25Jul2025 22:33:17.580] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 4ndr3s11
+[25Jul2025 22:33:17.590] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 22:33:17.610] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 4ndr3s11
+[25Jul2025 22:33:17.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 joined the game
+[25Jul2025 22:33:17.671] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 22:33:17.682] [Server thread/INFO] [Jade/]: Syncing config to 4ndr3s11 (15a0c287-8b4a-40c4-aa2c-07423ada3a10)
+[25Jul2025 22:33:22.422] [Server thread/INFO] [ping-wheel/]: Channel update: 4ndr3s11 -> default
+[25Jul2025 22:35:25.213] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[25Jul2025 22:35:25.213] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[25Jul2025 22:35:25.214] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[25Jul2025 22:35:25.214] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[25Jul2025 22:35:25.214] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[25Jul2025 22:35:25.214] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[25Jul2025 22:35:39.950] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 22:35:39.950] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 22:35:39.958] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2947 chunks for dimension 'overworld' took 8 milliseconds
+[25Jul2025 22:35:39.959] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:40:28.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] hay alguien?
+[25Jul2025 22:40:32.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jeronight> yo
+[25Jul2025 22:40:33.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4ndr3s11> yo
+[25Jul2025 22:40:33.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <rfrd18> CHI 3
+[25Jul2025 22:40:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] escriba en el c
+[25Jul2025 22:40:39.972] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 22:40:39.973] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 22:40:39.984] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2982 chunks for dimension 'overworld' took 11 milliseconds
+[25Jul2025 22:40:39.986] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:40:42.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] ok
+[25Jul2025 22:40:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <rfrd18> ok
+[25Jul2025 22:45:39.937] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 22:45:39.941] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 22:45:39.951] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3049 chunks for dimension 'overworld' took 10 milliseconds
+[25Jul2025 22:45:39.952] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 0 milliseconds
+[25Jul2025 22:50:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeronight was slain by 4ndr3s11
+[25Jul2025 22:50:40.029] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 22:50:40.031] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 22:50:40.041] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3059 chunks for dimension 'overworld' took 10 milliseconds
+[25Jul2025 22:50:40.043] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 129 chunks for dimension 'twilight_forest' took 1 milliseconds
+[25Jul2025 22:50:43.897] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.core.NonNullList.get(NonNullList.java:47) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at de.maxhenkel.corpse.corelib.inventory.ItemListInventory.m_8020_(ItemListInventory.java:43) ~[corpse-forge-1.20.1-1.0.21.jar%23458!/:1.20.1-1.0.21]
+	at net.minecraft.world.inventory.Slot.m_7993_(Slot.java:51) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_38946_(AbstractContainerMenu.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_8119_(ServerPlayer.java:435) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:694) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23682!/:?]
+	... 5 more
+[25Jul2025 22:50:44.044] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f43c0c38-5fb4-454b-af2b-ab0263452210
+[25Jul2025 22:50:44.045] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/ADUIADUISIUXD/servidor_minecraft/./crash-reports/crash-2025-07-25_22.50.43-server.txt
+[25Jul2025 22:50:44.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jul2025 22:50:44.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jul2025 22:50:44.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 lost connection: Server closed
+[25Jul2025 22:50:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 left the game
+[25Jul2025 22:50:44.132] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7918264a-f9eb-4d18-913e-b14c74b23958
+[25Jul2025 22:50:44.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeronight lost connection: Server closed
+[25Jul2025 22:50:44.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeronight left the game
+[25Jul2025 22:50:44.147] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 335e6d0c-84ed-4995-8e25-da81bceb7d73
+[25Jul2025 22:50:44.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jul2025 22:50:44.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jul2025 22:50:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jul2025 22:50:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jul2025 22:50:44.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[25Jul2025 22:50:44.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[25Jul2025 22:50:44.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[25Jul2025 22:50:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[25Jul2025 22:50:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[25Jul2025 22:50:45.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[25Jul2025 22:50:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jul2025 22:50:45.501] [Server thread/INFO] [Chunk Activity Tracker/]: Server stopping, clearing chunk activity tracking map.
+[25Jul2025 22:50:45.505] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Jul2025 22:50:45.517] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[25Jul2025 22:50:45.517] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25Jul2025 22:50:45.517] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Jul2025 22:50:45.518] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[25Jul2025 22:50:45.519] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[25Jul2025 22:51:09.766] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: java.util.concurrent.RejectedExecutionException: Server already shutting down
+[25Jul2025 22:51:09.766] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_201446_(MinecraftServer.java:1279)
+[25Jul2025 22:51:09.767] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/spark@1.10.53/me.lucko.spark.forge.plugin.ForgeServerSparkPlugin.executeSync(ForgeServerSparkPlugin.java:222)
+[25Jul2025 22:51:09.767] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.CompletableFuture.asyncSupplyStage(CompletableFuture.java:1782)
+[25Jul2025 22:51:09.767] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.CompletableFuture.supplyAsync(CompletableFuture.java:2005)
+[25Jul2025 22:51:09.767] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/spark@1.10.53/me.lucko.spark.common.platform.world.AsyncWorldInfoProvider.async(AsyncWorldInfoProvider.java:54)
+[25Jul2025 22:51:09.767] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/spark@1.10.53/me.lucko.spark.common.platform.world.AsyncWorldInfoProvider.pollCounts(AsyncWorldInfoProvider.java:76)
+[25Jul2025 22:51:09.767] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/spark@1.10.53/me.lucko.spark.common.platform.world.AsyncWorldInfoProvider.getCounts(AsyncWorldInfoProvider.java:84)
+[25Jul2025 22:51:09.767] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/spark@1.10.53/me.lucko.spark.common.sampler.window.WindowStatisticsCollector.measure(WindowStatisticsCollector.java:185)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/spark@1.10.53/me.lucko.spark.common.sampler.window.WindowStatisticsCollector.measureNow(WindowStatisticsCollector.java:123)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at TRANSFORMER/spark@1.10.53/me.lucko.spark.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:140)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[25Jul2025 22:51:09.768] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[25Jul2025 22:51:09.769] [spark-async-sampler-worker-thread/INFO] [STDERR/]: [me.lucko.spark.common.sampler.window.WindowStatisticsCollector:measure:193]: 	at java.base/java.lang.Thread.run(Thread.java:840)
