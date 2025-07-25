@@ -4060,3 +4060,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 20:46:22.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/69, l='ServerLevel[world]', x=166.30, y=73.01, z=115.70] died: Dinnerbone was shot by Dinnerbone
 [25Jul2025 20:46:33.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/71, l='ServerLevel[world]', x=174.70, y=73.01, z=107.30] died: Dinnerbone was shot by 4ndr3s11
 [25Jul2025 20:46:47.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/59, l='ServerLevel[world]', x=166.30, y=73.01, z=107.30] died: Dinnerbone was shot by 4ndr3s11
+[25Jul2025 20:49:10.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST was inebriated
+[25Jul2025 20:49:28.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5347, l='ServerLevel[world]', x=162.70, y=81.01, z=118.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 20:49:57.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5572, l='ServerLevel[world]', x=152.30, y=81.01, z=128.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 20:50:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 was shot by Dinnerbone
+[25Jul2025 20:50:26.721] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 77 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 20:50:26.737] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2648 chunks for dimension 'overworld' took 15 milliseconds
+[25Jul2025 20:55:00.716] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Parachute['Golden Parachute'/11099, l='ServerLevel[world]', x=259.65, y=320.00, z=-277.30] as it would cause deadlock
+[25Jul2025 20:55:26.708] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 87 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 20:55:26.719] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2690 chunks for dimension 'overworld' took 11 milliseconds
+[25Jul2025 20:58:31.270] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 20:58:31.277] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 7ms
+[25Jul2025 20:58:32.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[25Jul2025 20:58:32.569] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 38 chunks for filePath './world/chunk_activity_info/the_nether.dat' took 2 milliseconds
+[25Jul2025 20:58:32.577] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 38 chunks for dimension 'the_nether' took 8 milliseconds

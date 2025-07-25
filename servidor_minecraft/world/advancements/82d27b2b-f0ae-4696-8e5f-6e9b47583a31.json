@@ -9071,6 +9071,7 @@
   "deep_aether:explore_aether": {
     "criteria": {
       "aether:skyroot_grove": "2025-07-25 20:15:55 +0000",
+      "aether:skyroot_woodland": "2025-07-25 20:47:43 +0000",
       "deep_aether:golden_heights": "2025-07-25 19:16:19 +0000"
     },
     "done": false
@@ -9786,6 +9787,54 @@
   "aether_redux:recipes/building_blocks/runelight": {
     "criteria": {
       "has_sentry_chip": "2025-07-25 20:36:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2025-07-25 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_ring": "2025-07-25 20:52:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-07-25 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_ring": "2025-07-25 20:52:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-07-25 20:52:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2025-07-25 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hollow_skyroot_log_from_skyroot_log_stonecutting": {
+    "criteria": {
+      "has_skyroot_log": "2025-07-25 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-07-25 20:48:51 +0000"
     },
     "done": true
   },

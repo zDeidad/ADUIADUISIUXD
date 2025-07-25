@@ -3944,6 +3944,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-07-25 20:46:53 +0000",
       "minecraft:beach": "2025-07-24 03:05:40 +0000",
       "minecraft:river": "2025-07-24 03:06:51 +0000",
       "minecraft:dripstone_caves": "2025-07-24 20:37:44 +0000",
@@ -8663,6 +8664,12 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-07-25 20:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-25 20:47:50 +0000"
     },
     "done": true
   },
