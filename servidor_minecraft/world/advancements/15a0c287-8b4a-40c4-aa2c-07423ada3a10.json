@@ -7259,6 +7259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-25 22:00:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-07-25 21:53:09 +0000"
@@ -7277,15 +7283,33 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-25 22:00:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-07-25 21:55:38 +0000"
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-25 21:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-25 20:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-25 22:00:00 +0000"
     },
     "done": true
   },
@@ -7316,6 +7340,12 @@
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-07-25 21:53:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-07-25 21:55:59 +0000"
     },
     "done": true
   },

@@ -4197,3 +4197,16 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 21:55:39.929] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 0 milliseconds
 [25Jul2025 21:55:39.930] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 1 milliseconds
 [25Jul2025 21:55:39.937] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2861 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 22:00:39.974] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 2 milliseconds
+[25Jul2025 22:00:39.976] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 2 milliseconds
+[25Jul2025 22:00:39.990] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2861 chunks for dimension 'overworld' took 14 milliseconds
+[25Jul2025 22:02:04.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 moved wrongly!
+[25Jul2025 22:03:16.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41320, l='ServerLevel[world]', x=174.70, y=105.01, z=107.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 22:03:48.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/37940, l='ServerLevel[world]', x=172.30, y=129.01, z=111.90] died: Dinnerbone burned to death
+[25Jul2025 22:03:57.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38530, l='ServerLevel[world]', x=155.30, y=122.01, z=125.70] died: Dinnerbone burned to death
+[25Jul2025 22:05:39.947] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 22:05:39.948] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 22:05:39.955] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2865 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 22:10:39.944] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 105 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 22:10:39.944] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 22:10:39.954] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2865 chunks for dimension 'overworld' took 8 milliseconds
