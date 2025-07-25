@@ -4098,3 +4098,35 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 21:15:54.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20406, l='ServerLevel[world]', x=174.70, y=105.01, z=107.30] died: Dinnerbone was shot by Dinnerbone
 [25Jul2025 21:15:59.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20496, l='ServerLevel[world]', x=166.30, y=105.01, z=115.70] died: Dinnerbone was shot by Dinnerbone
 [25Jul2025 21:19:31.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST was slain by Giddy Blaze
+[25Jul2025 21:19:54.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST was kicked for floating too long!
+[25Jul2025 21:19:54.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FKECOST lost connection: Flying is not enabled on this server
+[25Jul2025 21:19:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST left the game
+[25Jul2025 21:19:54.354] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 21:19:57.163] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 21:20:00.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:55605] logged in with entity id 24038 at (461.3046187359844, 199.8231036201776, -442.96927479451443)
+[25Jul2025 21:20:00.037] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[25Jul2025 21:20:00.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[25Jul2025 21:20:00.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[25Jul2025 21:20:00.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[25Jul2025 21:20:00.040] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[25Jul2025 21:20:00.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[25Jul2025 21:20:00.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[25Jul2025 21:20:00.057] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 21:20:00.080] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[25Jul2025 21:20:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[25Jul2025 21:20:00.097] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 21:20:00.120] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[25Jul2025 21:20:05.714] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[25Jul2025 21:20:15.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST fell from a high place
+[25Jul2025 21:20:30.895] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 90 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 21:20:30.896] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 21:20:30.905] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2791 chunks for dimension 'overworld' took 9 milliseconds
+[25Jul2025 21:20:43.999] [Server thread/WARN] [Puzzles Lib/]: Requesting invalid capability fastitemframes:item_frame_color for type fuzs/fastitemframes/capability/ItemFrameColorCapability from holder ItemFrame['Item Frame'/23797, l='ServerLevel[world]', x=-353.50, y=51.03, z=291.50, removed=DISCARDED]
+[25Jul2025 21:23:55.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[25Jul2025 21:25:33.180] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 96 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 21:25:33.181] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 88 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 21:25:33.191] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2840 chunks for dimension 'overworld' took 10 milliseconds
+[25Jul2025 21:26:11.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST was slain by Giddy Blaze
+[25Jul2025 21:26:30.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[25Jul2025 21:29:50.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14074, l='ServerLevel[world]', x=152.70, y=97.01, z=108.26] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:30:00.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/10432, l='ServerLevel[world]', x=144.30, y=97.01, z=107.30] died: Dinnerbone was shot by Dinnerbone
