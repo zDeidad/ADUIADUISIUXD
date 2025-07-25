@@ -3978,3 +3978,71 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 19:04:30.134] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
 [25Jul2025 19:04:30.136] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [25Jul2025 19:04:30.137] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[25Jul2025 19:06:24.567] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Alxjo_ is 149dc44c-de5b-4961-9b49-aee74467a47e
+[25Jul2025 19:06:27.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Alxjo_[/100.110.49.30:57708] logged in with entity id 35 at (970.393253129102, 77.0, -424.5817970535674)
+[25Jul2025 19:06:32.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to _Alxjo_
+[25Jul2025 19:06:32.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to _Alxjo_
+[25Jul2025 19:06:32.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to _Alxjo_
+[25Jul2025 19:06:32.794] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to _Alxjo_
+[25Jul2025 19:06:32.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to _Alxjo_
+[25Jul2025 19:06:32.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to _Alxjo_
+[25Jul2025 19:06:32.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to _Alxjo_
+[25Jul2025 19:06:32.891] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 19:06:32.937] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player _Alxjo_
+[25Jul2025 19:06:33.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ joined the game
+[25Jul2025 19:06:33.628] [Server thread/INFO] [Jade/]: Syncing config to _Alxjo_ (149dc44c-de5b-4961-9b49-aee74467a47e)
+[25Jul2025 19:06:33.779] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
+[25Jul2025 19:06:33.844] [Server thread/INFO] [ping-wheel/]: Channel update: _Alxjo_ -> default
+[25Jul2025 19:06:33.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6342ms or 126 ticks behind
+[25Jul2025 19:06:38.693] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[25Jul2025 19:06:43.920] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 19:06:46.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:53332] logged in with entity id 264 at (491.0237738422477, 64.0, -579.6477912821276)
+[25Jul2025 19:06:46.542] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[25Jul2025 19:06:46.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[25Jul2025 19:06:46.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[25Jul2025 19:06:46.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[25Jul2025 19:06:46.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[25Jul2025 19:06:46.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[25Jul2025 19:06:46.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[25Jul2025 19:06:46.562] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 19:06:46.593] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[25Jul2025 19:06:46.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[25Jul2025 19:06:46.617] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 19:06:46.644] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[25Jul2025 19:06:51.666] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[25Jul2025 19:06:57.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8249ms or 164 ticks behind
+[25Jul2025 19:07:16.364] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player 4ndr3s11 is 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 19:07:17.738] [Worker-Main-15/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 19:07:17.995] [Worker-Main-15/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 257ms
+[25Jul2025 19:07:19.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4ndr3s11[/100.91.251.109:51603] logged in with entity id 525 at (403.8469638543326, 15.0, 236.54945683758484)
+[25Jul2025 19:07:19.318] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 4ndr3s11
+[25Jul2025 19:07:19.318] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 4ndr3s11
+[25Jul2025 19:07:19.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 4ndr3s11
+[25Jul2025 19:07:19.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 4ndr3s11
+[25Jul2025 19:07:19.323] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 4ndr3s11
+[25Jul2025 19:07:19.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 4ndr3s11
+[25Jul2025 19:07:19.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 4ndr3s11
+[25Jul2025 19:07:19.344] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 19:07:19.372] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 4ndr3s11
+[25Jul2025 19:07:19.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 joined the game
+[25Jul2025 19:07:19.435] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 19:07:19.450] [Server thread/INFO] [Jade/]: Syncing config to 4ndr3s11 (15a0c287-8b4a-40c4-aa2c-07423ada3a10)
+[25Jul2025 19:07:26.368] [Server thread/INFO] [ping-wheel/]: Channel update: 4ndr3s11 -> default
+[25Jul2025 19:07:56.325] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2415 chunks for dimension 'overworld' took 9 milliseconds
+[25Jul2025 19:08:57.433] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[25Jul2025 19:09:00.634] [Worker-Main-14/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 19:09:00.647] [Worker-Main-14/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 13ms
+[25Jul2025 19:09:01.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4448ms or 88 ticks behind
+[25Jul2025 19:09:01.795] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 33 chunks for filePath './world/chunk_activity_info/the_nether.dat' took 1 milliseconds
+[25Jul2025 19:09:01.796] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 33 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 19:09:47.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4ndr3s11 lost connection: Disconnected
+[25Jul2025 19:09:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 left the game
+[25Jul2025 19:09:47.470] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 19:09:47.517] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jul2025 19:13:00.627] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2415 chunks for dimension 'overworld' took 9 milliseconds
+[25Jul2025 19:13:00.628] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 38 chunks for dimension 'the_nether' took 0 milliseconds
+[25Jul2025 19:14:58.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_Alxjo_> apagando sv
+[25Jul2025 19:16:18.654] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 2 chunks for filePath './world/chunk_activity_info/the_aether.dat' took 0 milliseconds
+[25Jul2025 19:16:18.655] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 19:16:21.272] [Worker-Main-16/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 19:16:21.276] [Worker-Main-16/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 4ms

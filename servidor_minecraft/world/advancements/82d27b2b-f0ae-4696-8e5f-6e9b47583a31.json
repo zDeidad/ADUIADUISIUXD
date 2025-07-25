@@ -79,6 +79,7 @@
       "coniferous_forest": "2025-07-24 19:46:16 +0000",
       "spider_nest": "2025-07-24 19:51:16 +0000",
       "redwood_forest": "2025-07-24 02:10:02 +0000",
+      "visceral_heap": "2025-07-25 19:09:05 +0000",
       "fir_clearing": "2025-07-24 19:49:46 +0000",
       "prairie": "2025-07-24 02:05:30 +0000",
       "crag": "2025-07-24 02:05:04 +0000"
@@ -3446,6 +3447,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-24 18:45:59 +0000",
       "cooked_beef": "2025-07-24 19:42:13 +0000",
+      "baked_potato": "2025-07-25 19:07:33 +0000",
       "apple": "2025-07-24 18:29:48 +0000",
       "spider_eye": "2025-07-24 02:15:07 +0000",
       "cooked_cod": "2025-07-24 02:11:18 +0000",
@@ -3506,6 +3508,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-24 18:39:13 +0000",
       "minecraft:skeleton": "2025-07-24 02:15:01 +0000",
+      "minecraft:hoglin": "2025-07-25 19:11:02 +0000",
       "minecraft:vindicator": "2025-07-24 18:54:48 +0000",
       "minecraft:spider": "2025-07-24 02:14:56 +0000",
       "minecraft:zombie": "2025-07-24 02:25:16 +0000"
@@ -8972,6 +8975,84 @@
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-07-24 20:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-25 19:10:21 +0000"
+    },
+    "done": false
+  },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-25 19:07:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-07-25 19:07:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-07-25 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 19:11:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-25 19:07:30 +0000"
     },
     "done": true
   },
