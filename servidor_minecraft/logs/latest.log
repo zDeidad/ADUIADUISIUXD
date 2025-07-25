@@ -4040,3 +4040,42 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 19:50:25.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=61, z=273} BlockPos{x=398, y=60, z=273}
 [25Jul2025 19:52:14.775] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 1 milliseconds
 [25Jul2025 19:52:14.782] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2491 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 19:57:14.794] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 19:57:14.805] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2495 chunks for dimension 'overworld' took 10 milliseconds
+[25Jul2025 20:00:03.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rfrd18 moved wrongly!
+[25Jul2025 20:00:37.626] [Worker-Main-27/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[25Jul2025 20:00:37.626] [Worker-Main-27/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[25Jul2025 20:00:54.847] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[25Jul2025 20:00:54.847] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[25Jul2025 20:00:54.847] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[25Jul2025 20:00:54.847] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[25Jul2025 20:00:54.864] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[25Jul2025 20:00:54.865] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[25Jul2025 20:00:54.865] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[25Jul2025 20:00:54.865] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[25Jul2025 20:00:54.866] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[25Jul2025 20:02:14.782] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 20:02:14.794] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2560 chunks for dimension 'overworld' took 10 milliseconds
+[25Jul2025 20:03:29.700] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FKECOST is 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 20:03:32.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FKECOST[/100.85.178.22:54456] logged in with entity id 9549 at (394.30000001192093, 55.0, -746.7012257209585)
+[25Jul2025 20:03:32.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FKECOST
+[25Jul2025 20:03:32.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FKECOST
+[25Jul2025 20:03:32.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FKECOST
+[25Jul2025 20:03:32.718] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FKECOST
+[25Jul2025 20:03:32.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FKECOST
+[25Jul2025 20:03:32.722] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FKECOST
+[25Jul2025 20:03:32.722] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FKECOST
+[25Jul2025 20:03:32.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 20:03:32.757] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player FKECOST
+[25Jul2025 20:03:32.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST joined the game
+[25Jul2025 20:03:32.806] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 82d27b2b-f0ae-4696-8e5f-6e9b47583a31
+[25Jul2025 20:03:32.820] [Server thread/INFO] [Jade/]: Syncing config to FKECOST (82d27b2b-f0ae-4696-8e5f-6e9b47583a31)
+[25Jul2025 20:03:33.396] [Server thread/INFO] [ping-wheel/]: Channel update: FKECOST -> default
+[25Jul2025 20:05:04.082] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
+[25Jul2025 20:06:27.579] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
+[25Jul2025 20:07:14.795] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 20:07:14.802] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2568 chunks for dimension 'overworld' took 6 milliseconds
+[25Jul2025 20:11:12.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 was shot by Dinnerbone
+[25Jul2025 20:12:14.823] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 20:12:14.835] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2580 chunks for dimension 'overworld' took 12 milliseconds
+[25Jul2025 20:14:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 was burnt to a crisp whilst fighting Cave Spider

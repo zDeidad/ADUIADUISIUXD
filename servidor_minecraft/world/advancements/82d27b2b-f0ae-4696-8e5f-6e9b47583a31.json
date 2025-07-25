@@ -8978,6 +8978,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-25 19:07:30 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-07-25 19:07:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-25 19:07:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-07-25 19:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-25 19:10:21 +0000"
@@ -8996,45 +9020,15 @@
     },
     "done": true
   },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-07-25 19:16:18 +0000"
-    },
-    "done": true
-  },
-  "deep_aether:explore_aether": {
-    "criteria": {
-      "deep_aether:golden_heights": "2025-07-25 19:16:19 +0000"
-    },
-    "done": false
-  },
   "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-25 19:11:04 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-07-25 19:07:30 +0000"
-    },
-    "done": true
-  },
   "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
     "criteria": {
       "hoglin_loin": "2025-07-25 19:11:04 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/food/surf_and_turf": {
-    "criteria": {
-      "has_baked_potato": "2025-07-25 19:07:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_sword_repairing": {
-    "criteria": {
-      "has_iron_sword": "2025-07-25 19:07:52 +0000"
     },
     "done": true
   },
@@ -9050,12 +9044,6 @@
     },
     "done": true
   },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-07-25 19:16:18 +0000"
-    },
-    "done": true
-  },
   "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
     "criteria": {
       "has_hoglin_loin": "2025-07-25 19:11:04 +0000"
@@ -9068,11 +9056,23 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "aether:enter_aether": {
     "criteria": {
-      "has_baked_potato": "2025-07-25 19:07:30 +0000"
+      "enter_aether": "2025-07-25 19:16:18 +0000"
     },
     "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-07-25 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:golden_heights": "2025-07-25 19:16:19 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
