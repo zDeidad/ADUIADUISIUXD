@@ -4083,3 +4083,18 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 21:05:30.901] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 87 chunks for dimension 'the_aether' took 1 milliseconds
 [25Jul2025 21:05:30.908] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2714 chunks for dimension 'overworld' took 7 milliseconds
 [25Jul2025 21:06:30.572] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/16505, l='ServerLevel[world]', x=-278.00, y=31.00, z=-71.00] as it would cause deadlock
+[25Jul2025 21:10:30.939] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 73 chunks for dimension 'the_nether' took 1 milliseconds
+[25Jul2025 21:10:30.940] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 87 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 21:10:30.948] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2717 chunks for dimension 'overworld' took 8 milliseconds
+[25Jul2025 21:14:12.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12518, l='ServerLevel[world]', x=152.70, y=105.01, z=104.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:14:26.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/19571, l='ServerLevel[world]', x=152.70, y=105.01, z=104.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:14:52.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/19494, l='ServerLevel[world]', x=142.30, y=105.01, z=104.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:15:09.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12517, l='ServerLevel[world]', x=142.30, y=105.01, z=94.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:15:22.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/19870, l='ServerLevel[world]', x=152.70, y=105.01, z=104.10] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:15:23.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12132, l='ServerLevel[world]', x=152.70, y=105.01, z=94.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:15:30.889] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 82 chunks for dimension 'the_nether' took 2 milliseconds
+[25Jul2025 21:15:30.891] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 87 chunks for dimension 'the_aether' took 2 milliseconds
+[25Jul2025 21:15:30.905] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2742 chunks for dimension 'overworld' took 14 milliseconds
+[25Jul2025 21:15:54.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20406, l='ServerLevel[world]', x=174.70, y=105.01, z=107.30] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:15:59.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20496, l='ServerLevel[world]', x=166.30, y=105.01, z=115.70] died: Dinnerbone was shot by Dinnerbone
+[25Jul2025 21:19:31.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FKECOST was slain by Giddy Blaze

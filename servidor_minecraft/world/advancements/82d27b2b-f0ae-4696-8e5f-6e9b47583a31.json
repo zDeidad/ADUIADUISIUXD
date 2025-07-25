@@ -8862,7 +8862,8 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:upside_down_forest_cleared": "2025-07-24 20:04:35 +0000"
+      "betternether:upside_down_forest_cleared": "2025-07-24 20:04:35 +0000",
+      "betternether:crimson_glowing_woods": "2025-07-25 21:07:33 +0000"
     },
     "done": false
   },
@@ -9810,6 +9811,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:07:32 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2025-07-25 20:59:50 +0000"
@@ -9819,6 +9826,18 @@
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-07-25 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-25 21:09:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-07-25 21:07:11 +0000"
     },
     "done": true
   },
@@ -9834,15 +9853,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-25 21:09:39 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_ring": "2025-07-25 20:52:17 +0000"
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:07:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_planks": {
     "criteria": {
       "has_logs": "2025-07-25 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-07-25 21:09:39 +0000"
     },
     "done": true
   },
@@ -9870,6 +9907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-25 21:07:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-07-25 20:59:22 +0000"
@@ -9888,9 +9931,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-25 21:09:58 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-07-25 21:02:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-07-25 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-07-25 21:09:39 +0000"
     },
     "done": true
   },
@@ -9906,9 +9973,27 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-07-25 21:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-25 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-25 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-25 21:07:11 +0000"
     },
     "done": true
   },

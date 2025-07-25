@@ -8673,6 +8673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-25 21:13:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-07-25 20:59:59 +0000"
@@ -8682,6 +8688,12 @@
   "farmersdelight:recipes/misc/straw": {
     "criteria": {
       "has_straw_bale": "2025-07-25 20:56:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-25 21:13:40 +0000"
     },
     "done": true
   },
