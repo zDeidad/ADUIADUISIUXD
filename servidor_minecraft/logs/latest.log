@@ -3998,3 +3998,45 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 19:42:14.919] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2466 chunks for dimension 'overworld' took 9 milliseconds
 [25Jul2025 19:43:50.428] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 3 chunks for filePath './world/chunk_activity_info/the_aether.dat' took 1 milliseconds
 [25Jul2025 19:43:50.429] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 19:45:10.281] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 19:45:10.309] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 28ms
+[25Jul2025 19:45:15.980] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player 4ndr3s11 is 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 19:45:18.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4ndr3s11[/100.91.251.109:55135] logged in with entity id 1774 at (377.98554786752277, -3.0, 232.92297330885947)
+[25Jul2025 19:45:18.954] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 4ndr3s11
+[25Jul2025 19:45:18.954] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 4ndr3s11
+[25Jul2025 19:45:18.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 4ndr3s11
+[25Jul2025 19:45:18.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 4ndr3s11
+[25Jul2025 19:45:18.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 4ndr3s11
+[25Jul2025 19:45:18.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 4ndr3s11
+[25Jul2025 19:45:18.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 4ndr3s11
+[25Jul2025 19:45:18.978] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 19:45:19.023] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 4ndr3s11
+[25Jul2025 19:45:19.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 joined the game
+[25Jul2025 19:45:19.073] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 15a0c287-8b4a-40c4-aa2c-07423ada3a10
+[25Jul2025 19:45:19.089] [Server thread/INFO] [Jade/]: Syncing config to 4ndr3s11 (15a0c287-8b4a-40c4-aa2c-07423ada3a10)
+[25Jul2025 19:45:25.001] [Server thread/INFO] [ping-wheel/]: Channel update: 4ndr3s11 -> default
+[25Jul2025 19:45:25.182] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 19:45:25.374] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 192ms
+[25Jul2025 19:47:01.383] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:worm",tag:{Damage:0}}
+[25Jul2025 19:47:01.384] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[25Jul2025 19:47:01.384] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.384] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.384] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.385] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.385] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:unusual_fish_soup"}
+[25Jul2025 19:47:01.385] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[25Jul2025 19:47:01.385] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[25Jul2025 19:47:01.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:tambaqui"}
+[25Jul2025 19:47:01.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[25Jul2025 19:47:01.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.387] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.387] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:01.387] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:tambaqui
+[25Jul2025 19:47:14.807] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 0 milliseconds
+[25Jul2025 19:47:14.817] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2474 chunks for dimension 'overworld' took 10 milliseconds
+[25Jul2025 19:48:52.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4ndr3s11 was slain by Zombie
+[25Jul2025 19:50:25.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=61, z=273} BlockPos{x=398, y=60, z=273}
+[25Jul2025 19:52:14.775] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 19:52:14.782] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2491 chunks for dimension 'overworld' took 7 milliseconds
