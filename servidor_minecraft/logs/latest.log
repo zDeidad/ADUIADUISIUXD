@@ -3974,3 +3974,49 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [25Jul2025 01:43:43.078] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 2313 chunks for filePath './world/chunk_activity_info/overworld.dat' took 44 milliseconds
 [25Jul2025 01:43:43.108] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2313 chunks for dimension 'overworld' took 29 milliseconds
 [25Jul2025 01:48:41.487] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2313 chunks for dimension 'overworld' took 7 milliseconds
+[25Jul2025 01:51:19.842] [Netty Epoll Server IO #3/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19_4.forge.mixins.json:v1_19_4_forge.PacketEncoderMixin from mod packetfixer->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000
+[25Jul2025 01:51:19.942] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[25Jul2025 01:51:19.944] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[25Jul2025 01:51:19.945] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[25Jul2025 01:51:23.062] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player rfrd18 is 7918264a-f9eb-4d18-913e-b14c74b23958
+[25Jul2025 01:51:26.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rfrd18[/100.120.122.19:56405] logged in with entity id 35 at (258.2632759721592, -49.0, -1028.3106000734128)
+[25Jul2025 01:51:30.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to rfrd18
+[25Jul2025 01:51:30.400] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to rfrd18
+[25Jul2025 01:51:30.400] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to rfrd18
+[25Jul2025 01:51:30.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to rfrd18
+[25Jul2025 01:51:30.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to rfrd18
+[25Jul2025 01:51:30.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to rfrd18
+[25Jul2025 01:51:30.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to rfrd18
+[25Jul2025 01:51:30.826] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 01:51:30.875] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player rfrd18
+[25Jul2025 01:51:30.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 joined the game
+[25Jul2025 01:51:31.393] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7918264a-f9eb-4d18-913e-b14c74b23958
+[25Jul2025 01:51:31.663] [Server thread/INFO] [Jade/]: Syncing config to rfrd18 (7918264a-f9eb-4d18-913e-b14c74b23958)
+[25Jul2025 01:51:31.788] [Server thread/INFO] [ping-wheel/]: Channel update: rfrd18 -> default
+[25Jul2025 01:51:32.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
+[25Jul2025 01:51:38.551] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[25Jul2025 01:51:52.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rfrd18 was slain by Zombie
+[25Jul2025 01:51:52.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
+[25Jul2025 01:53:52.974] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2317 chunks for dimension 'overworld' took 8 milliseconds
+[25Jul2025 01:58:16.254] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player _Alxjo_ is 149dc44c-de5b-4961-9b49-aee74467a47e
+[25Jul2025 01:58:19.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Alxjo_[/100.110.49.30:54807] logged in with entity id 1960 at (490.9723856986021, 70.00133597911214, -567.4051948379066)
+[25Jul2025 01:58:19.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to _Alxjo_
+[25Jul2025 01:58:19.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to _Alxjo_
+[25Jul2025 01:58:19.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to _Alxjo_
+[25Jul2025 01:58:19.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to _Alxjo_
+[25Jul2025 01:58:19.231] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to _Alxjo_
+[25Jul2025 01:58:19.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to _Alxjo_
+[25Jul2025 01:58:19.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to _Alxjo_
+[25Jul2025 01:58:19.246] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Jul2025 01:58:19.275] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player _Alxjo_
+[25Jul2025 01:58:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Alxjo_ joined the game
+[25Jul2025 01:58:19.405] [Server thread/INFO] [Jade/]: Syncing config to _Alxjo_ (149dc44c-de5b-4961-9b49-aee74467a47e)
+[25Jul2025 01:58:19.406] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 149dc44c-de5b-4961-9b49-aee74467a47e
+[25Jul2025 01:58:24.847] [Server thread/INFO] [ping-wheel/]: Channel update: _Alxjo_ -> default
+[25Jul2025 01:58:52.960] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2320 chunks for dimension 'overworld' took 13 milliseconds
+[25Jul2025 01:59:13.950] [Worker-Main-31/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 01:59:14.239] [Worker-Main-31/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 289ms
+[25Jul2025 01:59:40.070] [Server thread/INFO] [Chunk Activity Tracker/]: Loading data for 2 chunks for filePath './world/chunk_activity_info/the_aether.dat' took 0 milliseconds
+[25Jul2025 01:59:40.071] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 2 chunks for dimension 'the_aether' took 1 milliseconds
+[25Jul2025 01:59:43.590] [Worker-Main-14/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[25Jul2025 01:59:43.592] [Worker-Main-14/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 3ms
